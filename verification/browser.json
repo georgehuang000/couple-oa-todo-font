@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "engine": "Chromium",
+  "viewports": [
+    [
+      1360,
+      1000
+    ],
+    [
+      360,
+      800
+    ]
+  ],
+  "checks": [
+    "actual WOFF loads",
+    "default specimen covered",
+    "unsupported Han/emoji/space disclosed",
+    "Unicode search",
+    "missing glyph search",
+    "604 Han / 139 other filters",
+    "pagination",
+    "font-size slider",
+    "reset example",
+    "no horizontal page overflow",
+    "no JavaScript errors"
+  ],
+  "screenshots": [
+    "verification/browser/desktop.png",
+    "verification/browser/mobile.png"
+  ]
+}

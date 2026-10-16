@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.63">
+  <GlyphOrder src="CoupleOATodo-Regular.GlyphOrder.ttx"/>
+  <head src="CoupleOATodo-Regular._h_e_a_d.ttx"/>
+  <hhea src="CoupleOATodo-Regular._h_h_e_a.ttx"/>
+  <maxp src="CoupleOATodo-Regular._m_a_x_p.ttx"/>
+  <OS_2 src="CoupleOATodo-Regular.O_S_2f_2.ttx"/>
+  <hmtx src="CoupleOATodo-Regular._h_m_t_x.ttx"/>
+  <cmap src="CoupleOATodo-Regular._c_m_a_p.ttx"/>
+  <loca src="CoupleOATodo-Regular._l_o_c_a.ttx"/>
+  <glyf src="CoupleOATodo-Regular._g_l_y_f.ttx"/>
+  <name src="CoupleOATodo-Regular._n_a_m_e.ttx"/>
+  <post src="CoupleOATodo-Regular._p_o_s_t.ttx"/>
+  <gasp src="CoupleOATodo-Regular._g_a_s_p.ttx"/>
+</ttFont>

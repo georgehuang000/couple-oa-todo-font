@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.63">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="0" platEncID="3" language="0">
+      <map code="0x20" name="uni0020"/><!-- SPACE -->
+      <map code="0x21" name="uni0021"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="uni0022"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="uni0023"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="uni0024"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="uni0025"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="uni0026"/><!-- AMPERSAND -->
+      <map code="0x27" name="uni0027"/><!-- APOSTROPHE -->
+      <map code="0x28" name="uni0028"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="uni0029"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="uni002A"/><!-- ASTERISK -->
+      <map code="0x2b" name="uni002B"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="uni002C"/><!-- COMMA -->
+      <map code="0x2d" name="uni002D"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="uni002E"/><!-- FULL STOP -->
+      <map code="0x2f" name="uni002F"/><!-- SOLIDUS -->
+      <map code="0x30" name="uni0030"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="uni0031"/><!-- DIGIT ONE -->
+      <map code="0x32" name="uni0032"/><!-- DIGIT TWO -->
+      <map code="0x33" name="uni0033"/><!-- DIGIT THREE -->
+      <map code="0x34" name="uni0034"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="uni0035"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="uni0036"/><!-- DIGIT SIX -->
+      <map code="0x37" name="uni0037"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="uni0038"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="uni0039"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="uni003A"/><!-- COLON -->
+      <map code="0x3b" name="uni003B"/><!-- SEMICOLON -->
+      <map code="0x3c" name="uni003C"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="uni003D"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="uni003E"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="uni003F"/><!-- QUESTION MARK -->
+      <map code="0x40" name="uni0040"/><!-- COMMERCIAL AT -->
+      <map code="0x41" name="uni0041"/><!-- LATIN CAPITAL LETTER A -->
+      <map code="0x42" name="uni0042"/><!-- LATIN CAPITAL LETTER B -->
+      <map code="0x43" name="uni0043"/><!-- LATIN CAPITAL LETTER C -->
+      <map code="0x44" name="uni0044"/><!-- LATIN CAPITAL LETTER D -->
+      <map code="0x45" name="uni0045"/><!-- LATIN CAPITAL LETTER E -->
+      <map code="0x46" name="uni0046"/><!-- LATIN CAPITAL LETTER F -->
+      <map code="0x47" name="uni0047"/><!-- LATIN CAPITAL LETTER G -->
+      <map code="0x48" name="uni0048"/><!-- LATIN CAPITAL LETTER H -->
+      <map code="0x49" name="uni0049"/><!-- LATIN CAPITAL LETTER I -->
+      <map code="0x4a" name="uni004A"/><!-- LATIN CAPITAL LETTER J -->
+      <map code="0x4b" name="uni004B"/><!-- LATIN CAPITAL LETTER K -->
+      <map code="0x4c" name="uni004C"/><!-- LATIN CAPITAL LETTER L -->
+      <map code="0x4d" name="uni004D"/><!-- LATIN CAPITAL LETTER M -->
+      <map code="0x4e" name="uni004E"/><!-- LATIN CAPITAL LETTER N -->
+      <map code="0x4f" name="uni004F"/><!-- LATIN CAPITAL LETTER O -->
+      <map code="0x50" name="uni0050"/><!-- LATIN CAPITAL LETTER P -->
+      <map code="0x51" name="uni0051"/><!-- LATIN CAPITAL LETTER Q -->
+      <map code="0x52" name="uni0052"/><!-- LATIN CAPITAL LETTER R -->
+      <map code="0x53" name="uni0053"/><!-- LATIN CAPITAL LETTER S -->
+      <map code="0x54" name="uni0054"/><!-- LATIN CAPITAL LETTER T -->
+      <map code="0x55" name="uni0055"/><!-- LATIN CAPITAL LETTER U -->
+      <map code="0x56" name="uni0056"/><!-- LATIN CAPITAL LETTER V -->
+      <map code="0x57" name="uni0057"/><!-- LATIN CAPITAL LETTER W -->
+      <map code="0x58" name="uni0058"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="uni0059"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5a" name="uni005A"/><!-- LATIN CAPITAL LETTER Z -->
+      <map code="0x5b" name="uni005B"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="uni005C"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="uni005D"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="uni005E"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="uni005F"/><!-- LOW LINE -->
+      <map code="0x60" name="uni0060"/><!-- GRAVE ACCENT -->
+      <map code="0x61" name="uni0061"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="uni0062"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x63" name="uni0063"/><!-- LATIN SMALL LETTER C -->
+      <map code="0x64" name="uni0064"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="uni0065"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="uni0066"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="uni0067"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="uni0068"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="uni0069"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="uni006A"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="uni006B"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="uni006C"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="uni006D"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="uni006E"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="uni006F"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="uni0070"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="uni0071"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="uni0072"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="uni0073"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="uni0074"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="uni0075"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="uni0076"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="uni0077"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="uni0078"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="uni0079"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="uni007A"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x7b" name="uni007B"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="uni007C"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="uni007D"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="uni007E"/><!-- TILDE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xa5" name="uni00A5"/><!-- YEN SIGN -->
+      <map code="0xb0" name="uni00B0"/><!-- DEGREE SIGN -->
+      <map code="0xb7" name="uni00B7"/><!-- MIDDLE DOT -->
+      <map code="0xd7" name="uni00D7"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xf7" name="uni00F7"/><!-- DIVISION SIGN -->
+      <map code="0x2013" name="uni2013"/><!-- EN DASH -->
+      <map code="0x2014" name="uni2014"/><!-- EM DASH -->
+      <map code="0x2018" name="uni2018"/><!-- LEFT SINGLE QUOTATION MARK -->
+      <map code="0x2019" name="uni2019"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201c" name="uni201C"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x201d" name="uni201D"/><!-- RIGHT DOUBLE QUOTATION MARK -->
+      <map code="0x2026" name="uni2026"/><!-- HORIZONTAL ELLIPSIS -->
+      <map code="0x2212" name="uni2212"/><!-- MINUS SIGN -->
+      <map code="0x2661" name="uni2661"/><!-- WHITE HEART SUIT -->
+      <map code="0x2665" name="uni2665"/><!-- BLACK HEART SUIT -->
+      <map code="0x3000" name="uni3000"/><!-- IDEOGRAPHIC SPACE -->
+      <map code="0x3001" name="uni3001"/><!-- IDEOGRAPHIC COMMA -->
+      <map code="0x3002" name="uni3002"/><!-- IDEOGRAPHIC FULL STOP -->
+      <map code="0x3008" name="uni3008"/><!-- LEFT ANGLE BRACKET -->
+      <map code="0x3009" name="uni3009"/><!-- RIGHT ANGLE BRACKET -->
+      <map code="0x300a" name="uni300A"/><!-- LEFT DOUBLE ANGLE BRACKET -->
+      <map code="0x300b" name="uni300B"/><!-- RIGHT DOUBLE ANGLE BRACKET -->
+      <map code="0x300c" name="uni300C"/><!-- LEFT CORNER BRACKET -->
+      <map code="0x300d" name="uni300D"/><!-- RIGHT CORNER BRACKET -->
+      <map code="0x300e" name="uni300E"/><!-- LEFT WHITE CORNER BRACKET -->
+      <map code="0x300f" name="uni300F"/><!-- RIGHT WHITE CORNER BRACKET -->
+      <map code="0x3010" name="uni3010"/><!-- LEFT BLACK LENTICULAR BRACKET -->
+      <map code="0x3011" name="uni3011"/><!-- RIGHT BLACK LENTICULAR BRACKET -->
+      <map code="0x3014" name="uni3014"/><!-- LEFT TORTOISE SHELL BRACKET -->
+      <map code="0x3015" name="uni3015"/><!-- RIGHT TORTOISE SHELL BRACKET -->
+      <map code="0x4e00" name="uni4E00"/><!-- CJK UNIFIED IDEOGRAPH-4E00 -->
+      <map code="0x4e07" name="uni4E07"/><!-- CJK UNIFIED IDEOGRAPH-4E07 -->
+      <map code="0x4e09" name="uni4E09"/><!-- CJK UNIFIED IDEOGRAPH-4E09 -->
+      <map code="0x4e0a" name="uni4E0A"/><!-- CJK UNIFIED IDEOGRAPH-4E0A -->
+      <map code="0x4e0b" name="uni4E0B"/><!-- CJK UNIFIED IDEOGRAPH-4E0B -->
+      <map code="0x4e0d" name="uni4E0D"/><!-- CJK UNIFIED IDEOGRAPH-4E0D -->
+      <map code="0x4e0e" name="uni4E0E"/><!-- CJK UNIFIED IDEOGRAPH-4E0E -->
+      <map code="0x4e1a" name="uni4E1A"/><!-- CJK UNIFIED IDEOGRAPH-4E1A -->
+      <map code="0x4e1c" name="uni4E1C"/><!-- CJK UNIFIED IDEOGRAPH-4E1C -->
+      <map code="0x4e24" name="uni4E24"/><!-- CJK UNIFIED IDEOGRAPH-4E24 -->
+      <map code="0x4e2a" name="uni4E2A"/><!-- CJK UNIFIED IDEOGRAPH-4E2A -->
+      <map code="0x4e2d" name="uni4E2D"/><!-- CJK UNIFIED IDEOGRAPH-4E2D -->
+      <map code="0x4e34" name="uni4E34"/><!-- CJK UNIFIED IDEOGRAPH-4E34 -->
+      <map code="0x4e3a" name="uni4E3A"/><!-- CJK UNIFIED IDEOGRAPH-4E3A -->
+      <map code="0x4e3b" name="uni4E3B"/><!-- CJK UNIFIED IDEOGRAPH-4E3B -->
+      <map code="0x4e45" name="uni4E45"/><!-- CJK UNIFIED IDEOGRAPH-4E45 -->
+      <map code="0x4e48" name="uni4E48"/><!-- CJK UNIFIED IDEOGRAPH-4E48 -->
+      <map code="0x4e49" name="uni4E49"/><!-- CJK UNIFIED IDEOGRAPH-4E49 -->
+      <map code="0x4e4b" name="uni4E4B"/><!-- CJK UNIFIED IDEOGRAPH-4E4B -->
+      <map code="0x4e50" name="uni4E50"/><!-- CJK UNIFIED IDEOGRAPH-4E50 -->
+      <map code="0x4e5f" name="uni4E5F"/><!-- CJK UNIFIED IDEOGRAPH-4E5F -->
+      <map code="0x4e60" name="uni4E60"/><!-- CJK UNIFIED IDEOGRAPH-4E60 -->
+      <map code="0x4e70" name="uni4E70"/><!-- CJK UNIFIED IDEOGRAPH-4E70 -->
+      <map code="0x4e86" name="uni4E86"/><!-- CJK UNIFIED IDEOGRAPH-4E86 -->
+      <map code="0x4e8b" name="uni4E8B"/><!-- CJK UNIFIED IDEOGRAPH-4E8B -->
+      <map code="0x4e8c" name="uni4E8C"/><!-- CJK UNIFIED IDEOGRAPH-4E8C -->
+      <map code="0x4e8e" name="uni4E8E"/><!-- CJK UNIFIED IDEOGRAPH-4E8E -->
+      <map code="0x4e91" name="uni4E91"/><!-- CJK UNIFIED IDEOGRAPH-4E91 -->
+      <map code="0x4e94" name="uni4E94"/><!-- CJK UNIFIED IDEOGRAPH-4E94 -->
+      <map code="0x4e9b" name="uni4E9B"/><!-- CJK UNIFIED IDEOGRAPH-4E9B -->
+      <map code="0x4ea4" name="uni4EA4"/><!-- CJK UNIFIED IDEOGRAPH-4EA4 -->
+      <map code="0x4eba" name="uni4EBA"/><!-- CJK UNIFIED IDEOGRAPH-4EBA -->
+      <map code="0x4ec0" name="uni4EC0"/><!-- CJK UNIFIED IDEOGRAPH-4EC0 -->
+      <map code="0x4eca" name="uni4ECA"/><!-- CJK UNIFIED IDEOGRAPH-4ECA -->
+      <map code="0x4ecd" name="uni4ECD"/><!-- CJK UNIFIED IDEOGRAPH-4ECD -->
+      <map code="0x4ece" name="uni4ECE"/><!-- CJK UNIFIED IDEOGRAPH-4ECE -->
+      <map code="0x4ed6" name="uni4ED6"/><!-- CJK UNIFIED IDEOGRAPH-4ED6 -->
+      <map code="0x4ee4" name="uni4EE4"/><!-- CJK UNIFIED IDEOGRAPH-4EE4 -->
+      <map code="0x4ee5" name="uni4EE5"/><!-- CJK UNIFIED IDEOGRAPH-4EE5 -->
+      <map code="0x4eec" name="uni4EEC"/><!-- CJK UNIFIED IDEOGRAPH-4EEC -->
+      <map code="0x4ef6" name="uni4EF6"/><!-- CJK UNIFIED IDEOGRAPH-4EF6 -->
+      <map code="0x4efd" name="uni4EFD"/><!-- CJK UNIFIED IDEOGRAPH-4EFD -->
+      <map code="0x4f18" name="uni4F18"/><!-- CJK UNIFIED IDEOGRAPH-4F18 -->
+      <map code="0x4f19" name="uni4F19"/><!-- CJK UNIFIED IDEOGRAPH-4F19 -->
+      <map code="0x4f1a" name="uni4F1A"/><!-- CJK UNIFIED IDEOGRAPH-4F1A -->
+      <map code="0x4f20" name="uni4F20"/><!-- CJK UNIFIED IDEOGRAPH-4F20 -->
+      <map code="0x4f34" name="uni4F34"/><!-- CJK UNIFIED IDEOGRAPH-4F34 -->
+      <map code="0x4f3d" name="uni4F3D"/><!-- CJK UNIFIED IDEOGRAPH-4F3D -->
+      <map code="0x4f46" name="uni4F46"/><!-- CJK UNIFIED IDEOGRAPH-4F46 -->
+      <map code="0x4f4d" name="uni4F4D"/><!-- CJK UNIFIED IDEOGRAPH-4F4D -->
+      <map code="0x4f4f" name="uni4F4F"/><!-- CJK UNIFIED IDEOGRAPH-4F4F -->
+      <map code="0x4f53" name="uni4F53"/><!-- CJK UNIFIED IDEOGRAPH-4F53 -->
+      <map code="0x4f5c" name="uni4F5C"/><!-- CJK UNIFIED IDEOGRAPH-4F5C -->
+      <map code="0x4f60" name="uni4F60"/><!-- CJK UNIFIED IDEOGRAPH-4F60 -->
+      <map code="0x4f7f" name="uni4F7F"/><!-- CJK UNIFIED IDEOGRAPH-4F7F -->
+      <map code="0x4f8b" name="uni4F8B"/><!-- CJK UNIFIED IDEOGRAPH-4F8B -->
+      <map code="0x4f9d" name="uni4F9D"/><!-- CJK UNIFIED IDEOGRAPH-4F9D -->
+      <map code="0x4fa3" name="uni4FA3"/><!-- CJK UNIFIED IDEOGRAPH-4FA3 -->
+      <map code="0x4fbf" name="uni4FBF"/><!-- CJK UNIFIED IDEOGRAPH-4FBF -->
+      <map code="0x4fdd" name="uni4FDD"/><!-- CJK UNIFIED IDEOGRAPH-4FDD -->
+      <map code="0x4fe1" name="uni4FE1"/><!-- CJK UNIFIED IDEOGRAPH-4FE1 -->
+      <map code="0x4fee" name="uni4FEE"/><!-- CJK UNIFIED IDEOGRAPH-4FEE -->
+      <map code="0x5019" name="uni5019"/><!-- CJK UNIFIED IDEOGRAPH-5019 -->
+      <map code="0x503c" name="uni503C"/><!-- CJK UNIFIED IDEOGRAPH-503C -->
+      <map code="0x505a" name="uni505A"/><!-- CJK UNIFIED IDEOGRAPH-505A -->
+      <map code="0x505c" name="uni505C"/><!-- CJK UNIFIED IDEOGRAPH-505C -->
+      <map code="0x5065" name="uni5065"/><!-- CJK UNIFIED IDEOGRAPH-5065 -->
+      <map code="0x5077" name="uni5077"/><!-- CJK UNIFIED IDEOGRAPH-5077 -->
+      <map code="0x50cf" name="uni50CF"/><!-- CJK UNIFIED IDEOGRAPH-50CF -->
+      <map code="0x5143" name="uni5143"/><!-- CJK UNIFIED IDEOGRAPH-5143 -->
+      <map code="0x5145" name="uni5145"/><!-- CJK UNIFIED IDEOGRAPH-5145 -->
+      <map code="0x5148" name="uni5148"/><!-- CJK UNIFIED IDEOGRAPH-5148 -->
+      <map code="0x5149" name="uni5149"/><!-- CJK UNIFIED IDEOGRAPH-5149 -->
+      <map code="0x5165" name="uni5165"/><!-- CJK UNIFIED IDEOGRAPH-5165 -->
+      <map code="0x5168" name="uni5168"/><!-- CJK UNIFIED IDEOGRAPH-5168 -->
+      <map code="0x516c" name="uni516C"/><!-- CJK UNIFIED IDEOGRAPH-516C -->
+      <map code="0x516d" name="uni516D"/><!-- CJK UNIFIED IDEOGRAPH-516D -->
+      <map code="0x5171" name="uni5171"/><!-- CJK UNIFIED IDEOGRAPH-5171 -->
+      <map code="0x5173" name="uni5173"/><!-- CJK UNIFIED IDEOGRAPH-5173 -->
+      <map code="0x5176" name="uni5176"/><!-- CJK UNIFIED IDEOGRAPH-5176 -->
+      <map code="0x5177" name="uni5177"/><!-- CJK UNIFIED IDEOGRAPH-5177 -->
+      <map code="0x517b" name="uni517B"/><!-- CJK UNIFIED IDEOGRAPH-517B -->
+      <map code="0x5185" name="uni5185"/><!-- CJK UNIFIED IDEOGRAPH-5185 -->
+      <map code="0x518c" name="uni518C"/><!-- CJK UNIFIED IDEOGRAPH-518C -->
+      <map code="0x518d" name="uni518D"/><!-- CJK UNIFIED IDEOGRAPH-518D -->
+      <map code="0x5199" name="uni5199"/><!-- CJK UNIFIED IDEOGRAPH-5199 -->
+      <map code="0x51ac" name="uni51AC"/><!-- CJK UNIFIED IDEOGRAPH-51AC -->
+      <map code="0x51b0" name="uni51B0"/><!-- CJK UNIFIED IDEOGRAPH-51B0 -->
+      <map code="0x51b3" name="uni51B3"/><!-- CJK UNIFIED IDEOGRAPH-51B3 -->
+      <map code="0x51c6" name="uni51C6"/><!-- CJK UNIFIED IDEOGRAPH-51C6 -->
+      <map code="0x51cc" name="uni51CC"/><!-- CJK UNIFIED IDEOGRAPH-51CC -->
+      <map code="0x51e1" name="uni51E1"/><!-- CJK UNIFIED IDEOGRAPH-51E1 -->
+      <map code="0x51fa" name="uni51FA"/><!-- CJK UNIFIED IDEOGRAPH-51FA -->
+      <map code="0x51fd" name="uni51FD"/><!-- CJK UNIFIED IDEOGRAPH-51FD -->
+      <map code="0x5206" name="uni5206"/><!-- CJK UNIFIED IDEOGRAPH-5206 -->
+      <map code="0x5207" name="uni5207"/><!-- CJK UNIFIED IDEOGRAPH-5207 -->
+      <map code="0x5212" name="uni5212"/><!-- CJK UNIFIED IDEOGRAPH-5212 -->
+      <map code="0x521b" name="uni521B"/><!-- CJK UNIFIED IDEOGRAPH-521B -->
+      <map code="0x521d" name="uni521D"/><!-- CJK UNIFIED IDEOGRAPH-521D -->
+      <map code="0x5220" name="uni5220"/><!-- CJK UNIFIED IDEOGRAPH-5220 -->
+      <map code="0x522b" name="uni522B"/><!-- CJK UNIFIED IDEOGRAPH-522B -->
+      <map code="0x5230" name="uni5230"/><!-- CJK UNIFIED IDEOGRAPH-5230 -->
+      <map code="0x5236" name="uni5236"/><!-- CJK UNIFIED IDEOGRAPH-5236 -->
+      <map code="0x523b" name="uni523B"/><!-- CJK UNIFIED IDEOGRAPH-523B -->
+      <map code="0x524d" name="uni524D"/><!-- CJK UNIFIED IDEOGRAPH-524D -->
+      <map code="0x529b" name="uni529B"/><!-- CJK UNIFIED IDEOGRAPH-529B -->
+      <map code="0x529e" name="uni529E"/><!-- CJK UNIFIED IDEOGRAPH-529E -->
+      <map code="0x52a0" name="uni52A0"/><!-- CJK UNIFIED IDEOGRAPH-52A0 -->
+      <map code="0x52a1" name="uni52A1"/><!-- CJK UNIFIED IDEOGRAPH-52A1 -->
+      <map code="0x52a8" name="uni52A8"/><!-- CJK UNIFIED IDEOGRAPH-52A8 -->
+      <map code="0x52a9" name="uni52A9"/><!-- CJK UNIFIED IDEOGRAPH-52A9 -->
+      <map code="0x5316" name="uni5316"/><!-- CJK UNIFIED IDEOGRAPH-5316 -->
+      <map code="0x5317" name="uni5317"/><!-- CJK UNIFIED IDEOGRAPH-5317 -->
+      <map code="0x5347" name="uni5347"/><!-- CJK UNIFIED IDEOGRAPH-5347 -->
+      <map code="0x5348" name="uni5348"/><!-- CJK UNIFIED IDEOGRAPH-5348 -->
+      <map code="0x534a" name="uni534A"/><!-- CJK UNIFIED IDEOGRAPH-534A -->
+      <map code="0x534f" name="uni534F"/><!-- CJK UNIFIED IDEOGRAPH-534F -->
+      <map code="0x5355" name="uni5355"/><!-- CJK UNIFIED IDEOGRAPH-5355 -->
+      <map code="0x5361" name="uni5361"/><!-- CJK UNIFIED IDEOGRAPH-5361 -->
+      <map code="0x5373" name="uni5373"/><!-- CJK UNIFIED IDEOGRAPH-5373 -->
+      <map code="0x5385" name="uni5385"/><!-- CJK UNIFIED IDEOGRAPH-5385 -->
+      <map code="0x5386" name="uni5386"/><!-- CJK UNIFIED IDEOGRAPH-5386 -->
+      <map code="0x539f" name="uni539F"/><!-- CJK UNIFIED IDEOGRAPH-539F -->
+      <map code="0x53bb" name="uni53BB"/><!-- CJK UNIFIED IDEOGRAPH-53BB -->
+      <map code="0x53c2" name="uni53C2"/><!-- CJK UNIFIED IDEOGRAPH-53C2 -->
+      <map code="0x53c8" name="uni53C8"/><!-- CJK UNIFIED IDEOGRAPH-53C8 -->
+      <map code="0x53cb" name="uni53CB"/><!-- CJK UNIFIED IDEOGRAPH-53CB -->
+      <map code="0x53cc" name="uni53CC"/><!-- CJK UNIFIED IDEOGRAPH-53CC -->
+      <map code="0x53d1" name="uni53D1"/><!-- CJK UNIFIED IDEOGRAPH-53D1 -->
+      <map code="0x53d6" name="uni53D6"/><!-- CJK UNIFIED IDEOGRAPH-53D6 -->
+      <map code="0x53d7" name="uni53D7"/><!-- CJK UNIFIED IDEOGRAPH-53D7 -->
+      <map code="0x53d8" name="uni53D8"/><!-- CJK UNIFIED IDEOGRAPH-53D8 -->
+      <map code="0x53e0" name="uni53E0"/><!-- CJK UNIFIED IDEOGRAPH-53E0 -->
+      <map code="0x53e3" name="uni53E3"/><!-- CJK UNIFIED IDEOGRAPH-53E3 -->
+      <map code="0x53e5" name="uni53E5"/><!-- CJK UNIFIED IDEOGRAPH-53E5 -->
+      <map code="0x53e6" name="uni53E6"/><!-- CJK UNIFIED IDEOGRAPH-53E6 -->
+      <map code="0x53ea" name="uni53EA"/><!-- CJK UNIFIED IDEOGRAPH-53EA -->
+      <map code="0x53ef" name="uni53EF"/><!-- CJK UNIFIED IDEOGRAPH-53EF -->
+      <map code="0x53f0" name="uni53F0"/><!-- CJK UNIFIED IDEOGRAPH-53F0 -->
+      <map code="0x53f2" name="uni53F2"/><!-- CJK UNIFIED IDEOGRAPH-53F2 -->
+      <map code="0x53f3" name="uni53F3"/><!-- CJK UNIFIED IDEOGRAPH-53F3 -->
+      <map code="0x53f7" name="uni53F7"/><!-- CJK UNIFIED IDEOGRAPH-53F7 -->
+      <map code="0x5403" name="uni5403"/><!-- CJK UNIFIED IDEOGRAPH-5403 -->
+      <map code="0x5408" name="uni5408"/><!-- CJK UNIFIED IDEOGRAPH-5408 -->
+      <map code="0x540c" name="uni540C"/><!-- CJK UNIFIED IDEOGRAPH-540C -->
+      <map code="0x540d" name="uni540D"/><!-- CJK UNIFIED IDEOGRAPH-540D -->
+      <map code="0x540e" name="uni540E"/><!-- CJK UNIFIED IDEOGRAPH-540E -->
+      <map code="0x5417" name="uni5417"/><!-- CJK UNIFIED IDEOGRAPH-5417 -->
+      <map code="0x5427" name="uni5427"/><!-- CJK UNIFIED IDEOGRAPH-5427 -->
+      <map code="0x542c" name="uni542C"/><!-- CJK UNIFIED IDEOGRAPH-542C -->
+      <map code="0x542f" name="uni542F"/><!-- CJK UNIFIED IDEOGRAPH-542F -->
+      <map code="0x5439" name="uni5439"/><!-- CJK UNIFIED IDEOGRAPH-5439 -->
+      <map code="0x5440" name="uni5440"/><!-- CJK UNIFIED IDEOGRAPH-5440 -->
+      <map code="0x544a" name="uni544A"/><!-- CJK UNIFIED IDEOGRAPH-544A -->
+      <map code="0x5468" name="uni5468"/><!-- CJK UNIFIED IDEOGRAPH-5468 -->
+      <map code="0x547c" name="uni547C"/><!-- CJK UNIFIED IDEOGRAPH-547C -->
+      <map code="0x548c" name="uni548C"/><!-- CJK UNIFIED IDEOGRAPH-548C -->
+      <map code="0x54ea" name="uni54EA"/><!-- CJK UNIFIED IDEOGRAPH-54EA -->
+      <map code="0x5531" name="uni5531"/><!-- CJK UNIFIED IDEOGRAPH-5531 -->
+      <map code="0x5546" name="uni5546"/><!-- CJK UNIFIED IDEOGRAPH-5546 -->
+      <map code="0x5566" name="uni5566"/><!-- CJK UNIFIED IDEOGRAPH-5566 -->
+      <map code="0x559c" name="uni559C"/><!-- CJK UNIFIED IDEOGRAPH-559C -->
+      <map code="0x56db" name="uni56DB"/><!-- CJK UNIFIED IDEOGRAPH-56DB -->
+      <map code="0x56de" name="uni56DE"/><!-- CJK UNIFIED IDEOGRAPH-56DE -->
+      <map code="0x56e0" name="uni56E0"/><!-- CJK UNIFIED IDEOGRAPH-56E0 -->
+      <map code="0x56ed" name="uni56ED"/><!-- CJK UNIFIED IDEOGRAPH-56ED -->
+      <map code="0x56fe" name="uni56FE"/><!-- CJK UNIFIED IDEOGRAPH-56FE -->
+      <map code="0x5728" name="uni5728"/><!-- CJK UNIFIED IDEOGRAPH-5728 -->
+      <map code="0x5730" name="uni5730"/><!-- CJK UNIFIED IDEOGRAPH-5730 -->
+      <map code="0x573a" name="uni573A"/><!-- CJK UNIFIED IDEOGRAPH-573A -->
+      <map code="0x578b" name="uni578B"/><!-- CJK UNIFIED IDEOGRAPH-578B -->
+      <map code="0x57ce" name="uni57CE"/><!-- CJK UNIFIED IDEOGRAPH-57CE -->
+      <map code="0x586b" name="uni586B"/><!-- CJK UNIFIED IDEOGRAPH-586B -->
+      <map code="0x5883" name="uni5883"/><!-- CJK UNIFIED IDEOGRAPH-5883 -->
+      <map code="0x5904" name="uni5904"/><!-- CJK UNIFIED IDEOGRAPH-5904 -->
+      <map code="0x5907" name="uni5907"/><!-- CJK UNIFIED IDEOGRAPH-5907 -->
+      <map code="0x590d" name="uni590D"/><!-- CJK UNIFIED IDEOGRAPH-590D -->
+      <map code="0x5916" name="uni5916"/><!-- CJK UNIFIED IDEOGRAPH-5916 -->
+      <map code="0x591a" name="uni591A"/><!-- CJK UNIFIED IDEOGRAPH-591A -->
+      <map code="0x591c" name="uni591C"/><!-- CJK UNIFIED IDEOGRAPH-591C -->
+      <map code="0x591f" name="uni591F"/><!-- CJK UNIFIED IDEOGRAPH-591F -->
+      <map code="0x5927" name="uni5927"/><!-- CJK UNIFIED IDEOGRAPH-5927 -->
+      <map code="0x5929" name="uni5929"/><!-- CJK UNIFIED IDEOGRAPH-5929 -->
+      <map code="0x592a" name="uni592A"/><!-- CJK UNIFIED IDEOGRAPH-592A -->
+      <map code="0x5931" name="uni5931"/><!-- CJK UNIFIED IDEOGRAPH-5931 -->
+      <map code="0x5934" name="uni5934"/><!-- CJK UNIFIED IDEOGRAPH-5934 -->
+      <map code="0x597d" name="uni597D"/><!-- CJK UNIFIED IDEOGRAPH-597D -->
+      <map code="0x5982" name="uni5982"/><!-- CJK UNIFIED IDEOGRAPH-5982 -->
+      <map code="0x59cb" name="uni59CB"/><!-- CJK UNIFIED IDEOGRAPH-59CB -->
+      <map code="0x5a31" name="uni5A31"/><!-- CJK UNIFIED IDEOGRAPH-5A31 -->
+      <map code="0x5b50" name="uni5B50"/><!-- CJK UNIFIED IDEOGRAPH-5B50 -->
+      <map code="0x5b57" name="uni5B57"/><!-- CJK UNIFIED IDEOGRAPH-5B57 -->
+      <map code="0x5b58" name="uni5B58"/><!-- CJK UNIFIED IDEOGRAPH-5B58 -->
+      <map code="0x5b66" name="uni5B66"/><!-- CJK UNIFIED IDEOGRAPH-5B66 -->
+      <map code="0x5b87" name="uni5B87"/><!-- CJK UNIFIED IDEOGRAPH-5B87 -->
+      <map code="0x5b89" name="uni5B89"/><!-- CJK UNIFIED IDEOGRAPH-5B89 -->
+      <map code="0x5b8c" name="uni5B8C"/><!-- CJK UNIFIED IDEOGRAPH-5B8C -->
+      <map code="0x5b9a" name="uni5B9A"/><!-- CJK UNIFIED IDEOGRAPH-5B9A -->
+      <map code="0x5b9e" name="uni5B9E"/><!-- CJK UNIFIED IDEOGRAPH-5B9E -->
+      <map code="0x5ba0" name="uni5BA0"/><!-- CJK UNIFIED IDEOGRAPH-5BA0 -->
+      <map code="0x5ba1" name="uni5BA1"/><!-- CJK UNIFIED IDEOGRAPH-5BA1 -->
+      <map code="0x5bb6" name="uni5BB6"/><!-- CJK UNIFIED IDEOGRAPH-5BB6 -->
+      <map code="0x5bb9" name="uni5BB9"/><!-- CJK UNIFIED IDEOGRAPH-5BB9 -->
+      <map code="0x5bc4" name="uni5BC4"/><!-- CJK UNIFIED IDEOGRAPH-5BC4 -->
+      <map code="0x5bf9" name="uni5BF9"/><!-- CJK UNIFIED IDEOGRAPH-5BF9 -->
+      <map code="0x5bfc" name="uni5BFC"/><!-- CJK UNIFIED IDEOGRAPH-5BFC -->
+      <map code="0x5c01" name="uni5C01"/><!-- CJK UNIFIED IDEOGRAPH-5C01 -->
+      <map code="0x5c04" name="uni5C04"/><!-- CJK UNIFIED IDEOGRAPH-5C04 -->
+      <map code="0x5c06" name="uni5C06"/><!-- CJK UNIFIED IDEOGRAPH-5C06 -->
+      <map code="0x5c0f" name="uni5C0F"/><!-- CJK UNIFIED IDEOGRAPH-5C0F -->
+      <map code="0x5c11" name="uni5C11"/><!-- CJK UNIFIED IDEOGRAPH-5C11 -->
+      <map code="0x5c1a" name="uni5C1A"/><!-- CJK UNIFIED IDEOGRAPH-5C1A -->
+      <map code="0x5c31" name="uni5C31"/><!-- CJK UNIFIED IDEOGRAPH-5C31 -->
+      <map code="0x5c55" name="uni5C55"/><!-- CJK UNIFIED IDEOGRAPH-5C55 -->
+      <map code="0x5c5e" name="uni5C5E"/><!-- CJK UNIFIED IDEOGRAPH-5C5E -->
+      <map code="0x5c9b" name="uni5C9B"/><!-- CJK UNIFIED IDEOGRAPH-5C9B -->
+      <map code="0x5dde" name="uni5DDE"/><!-- CJK UNIFIED IDEOGRAPH-5DDE -->
+      <map code="0x5de5" name="uni5DE5"/><!-- CJK UNIFIED IDEOGRAPH-5DE5 -->
+      <map code="0x5de6" name="uni5DE6"/><!-- CJK UNIFIED IDEOGRAPH-5DE6 -->
+      <map code="0x5dee" name="uni5DEE"/><!-- CJK UNIFIED IDEOGRAPH-5DEE -->
+      <map code="0x5df1" name="uni5DF1"/><!-- CJK UNIFIED IDEOGRAPH-5DF1 -->
+      <map code="0x5df2" name="uni5DF2"/><!-- CJK UNIFIED IDEOGRAPH-5DF2 -->
+      <map code="0x5e02" name="uni5E02"/><!-- CJK UNIFIED IDEOGRAPH-5E02 -->
+      <map code="0x5e03" name="uni5E03"/><!-- CJK UNIFIED IDEOGRAPH-5E03 -->
+      <map code="0x5e0c" name="uni5E0C"/><!-- CJK UNIFIED IDEOGRAPH-5E0C -->
+      <map code="0x5e26" name="uni5E26"/><!-- CJK UNIFIED IDEOGRAPH-5E26 -->
+      <map code="0x5e2e" name="uni5E2E"/><!-- CJK UNIFIED IDEOGRAPH-5E2E -->
+      <map code="0x5e38" name="uni5E38"/><!-- CJK UNIFIED IDEOGRAPH-5E38 -->
+      <map code="0x5e73" name="uni5E73"/><!-- CJK UNIFIED IDEOGRAPH-5E73 -->
+      <map code="0x5e74" name="uni5E74"/><!-- CJK UNIFIED IDEOGRAPH-5E74 -->
+      <map code="0x5e76" name="uni5E76"/><!-- CJK UNIFIED IDEOGRAPH-5E76 -->
+      <map code="0x5e78" name="uni5E78"/><!-- CJK UNIFIED IDEOGRAPH-5E78 -->
+      <map code="0x5e94" name="uni5E94"/><!-- CJK UNIFIED IDEOGRAPH-5E94 -->
+      <map code="0x5ea6" name="uni5EA6"/><!-- CJK UNIFIED IDEOGRAPH-5EA6 -->
+      <map code="0x5ea7" name="uni5EA7"/><!-- CJK UNIFIED IDEOGRAPH-5EA7 -->
+      <map code="0x5eb7" name="uni5EB7"/><!-- CJK UNIFIED IDEOGRAPH-5EB7 -->
+      <map code="0x5efa" name="uni5EFA"/><!-- CJK UNIFIED IDEOGRAPH-5EFA -->
+      <map code="0x5f00" name="uni5F00"/><!-- CJK UNIFIED IDEOGRAPH-5F00 -->
+      <map code="0x5f02" name="uni5F02"/><!-- CJK UNIFIED IDEOGRAPH-5F02 -->
+      <map code="0x5f0f" name="uni5F0F"/><!-- CJK UNIFIED IDEOGRAPH-5F0F -->
+      <map code="0x5f20" name="uni5F20"/><!-- CJK UNIFIED IDEOGRAPH-5F20 -->
+      <map code="0x5f2f" name="uni5F2F"/><!-- CJK UNIFIED IDEOGRAPH-5F2F -->
+      <map code="0x5f52" name="uni5F52"/><!-- CJK UNIFIED IDEOGRAPH-5F52 -->
+      <map code="0x5f53" name="uni5F53"/><!-- CJK UNIFIED IDEOGRAPH-5F53 -->
+      <map code="0x5f55" name="uni5F55"/><!-- CJK UNIFIED IDEOGRAPH-5F55 -->
+      <map code="0x5f71" name="uni5F71"/><!-- CJK UNIFIED IDEOGRAPH-5F71 -->
+      <map code="0x5f7c" name="uni5F7C"/><!-- CJK UNIFIED IDEOGRAPH-5F7C -->
+      <map code="0x5f80" name="uni5F80"/><!-- CJK UNIFIED IDEOGRAPH-5F80 -->
+      <map code="0x5f85" name="uni5F85"/><!-- CJK UNIFIED IDEOGRAPH-5F85 -->
+      <map code="0x5f88" name="uni5F88"/><!-- CJK UNIFIED IDEOGRAPH-5F88 -->
+      <map code="0x5f8b" name="uni5F8B"/><!-- CJK UNIFIED IDEOGRAPH-5F8B -->
+      <map code="0x5f97" name="uni5F97"/><!-- CJK UNIFIED IDEOGRAPH-5F97 -->
+      <map code="0x5fae" name="uni5FAE"/><!-- CJK UNIFIED IDEOGRAPH-5FAE -->
+      <map code="0x5fc3" name="uni5FC3"/><!-- CJK UNIFIED IDEOGRAPH-5FC3 -->
+      <map code="0x5fc5" name="uni5FC5"/><!-- CJK UNIFIED IDEOGRAPH-5FC5 -->
+      <map code="0x5fc6" name="uni5FC6"/><!-- CJK UNIFIED IDEOGRAPH-5FC6 -->
+      <map code="0x5feb" name="uni5FEB"/><!-- CJK UNIFIED IDEOGRAPH-5FEB -->
+      <map code="0x5ff5" name="uni5FF5"/><!-- CJK UNIFIED IDEOGRAPH-5FF5 -->
+      <map code="0x6062" name="uni6062"/><!-- CJK UNIFIED IDEOGRAPH-6062 -->
+      <map code="0x606f" name="uni606F"/><!-- CJK UNIFIED IDEOGRAPH-606F -->
+      <map code="0x6084" name="uni6084"/><!-- CJK UNIFIED IDEOGRAPH-6084 -->
+      <map code="0x60c5" name="uni60C5"/><!-- CJK UNIFIED IDEOGRAPH-60C5 -->
+      <map code="0x60ca" name="uni60CA"/><!-- CJK UNIFIED IDEOGRAPH-60CA -->
+      <map code="0x60f3" name="uni60F3"/><!-- CJK UNIFIED IDEOGRAPH-60F3 -->
+      <map code="0x610f" name="uni610F"/><!-- CJK UNIFIED IDEOGRAPH-610F -->
+      <map code="0x611f" name="uni611F"/><!-- CJK UNIFIED IDEOGRAPH-611F -->
+      <map code="0x613f" name="uni613F"/><!-- CJK UNIFIED IDEOGRAPH-613F -->
+      <map code="0x6162" name="uni6162"/><!-- CJK UNIFIED IDEOGRAPH-6162 -->
+      <map code="0x6210" name="uni6210"/><!-- CJK UNIFIED IDEOGRAPH-6210 -->
+      <map code="0x6211" name="uni6211"/><!-- CJK UNIFIED IDEOGRAPH-6211 -->
+      <map code="0x6216" name="uni6216"/><!-- CJK UNIFIED IDEOGRAPH-6216 -->
+      <map code="0x622a" name="uni622A"/><!-- CJK UNIFIED IDEOGRAPH-622A -->
+      <map code="0x6237" name="uni6237"/><!-- CJK UNIFIED IDEOGRAPH-6237 -->
+      <map code="0x6240" name="uni6240"/><!-- CJK UNIFIED IDEOGRAPH-6240 -->
+      <map code="0x624d" name="uni624D"/><!-- CJK UNIFIED IDEOGRAPH-624D -->
+      <map code="0x6253" name="uni6253"/><!-- CJK UNIFIED IDEOGRAPH-6253 -->
+      <map code="0x6279" name="uni6279"/><!-- CJK UNIFIED IDEOGRAPH-6279 -->
+      <map code="0x627e" name="uni627E"/><!-- CJK UNIFIED IDEOGRAPH-627E -->
+      <map code="0x627f" name="uni627F"/><!-- CJK UNIFIED IDEOGRAPH-627F -->
+      <map code="0x628a" name="uni628A"/><!-- CJK UNIFIED IDEOGRAPH-628A -->
+      <map code="0x6298" name="uni6298"/><!-- CJK UNIFIED IDEOGRAPH-6298 -->
+      <map code="0x62a5" name="uni62A5"/><!-- CJK UNIFIED IDEOGRAPH-62A5 -->
+      <map code="0x62cd" name="uni62CD"/><!-- CJK UNIFIED IDEOGRAPH-62CD -->
+      <map code="0x62d2" name="uni62D2"/><!-- CJK UNIFIED IDEOGRAPH-62D2 -->
+      <map code="0x62e9" name="uni62E9"/><!-- CJK UNIFIED IDEOGRAPH-62E9 -->
+      <map code="0x6301" name="uni6301"/><!-- CJK UNIFIED IDEOGRAPH-6301 -->
+      <map code="0x6309" name="uni6309"/><!-- CJK UNIFIED IDEOGRAPH-6309 -->
+      <map code="0x6362" name="uni6362"/><!-- CJK UNIFIED IDEOGRAPH-6362 -->
+      <map code="0x636e" name="uni636E"/><!-- CJK UNIFIED IDEOGRAPH-636E -->
+      <map code="0x6392" name="uni6392"/><!-- CJK UNIFIED IDEOGRAPH-6392 -->
+      <map code="0x63a5" name="uni63A5"/><!-- CJK UNIFIED IDEOGRAPH-63A5 -->
+      <map code="0x63cf" name="uni63CF"/><!-- CJK UNIFIED IDEOGRAPH-63CF -->
+      <map code="0x63d0" name="uni63D0"/><!-- CJK UNIFIED IDEOGRAPH-63D0 -->
+      <map code="0x641c" name="uni641C"/><!-- CJK UNIFIED IDEOGRAPH-641C -->
+      <map code="0x64a4" name="uni64A4"/><!-- CJK UNIFIED IDEOGRAPH-64A4 -->
+      <map code="0x64cd" name="uni64CD"/><!-- CJK UNIFIED IDEOGRAPH-64CD -->
+      <map code="0x652f" name="uni652F"/><!-- CJK UNIFIED IDEOGRAPH-652F -->
+      <map code="0x6536" name="uni6536"/><!-- CJK UNIFIED IDEOGRAPH-6536 -->
+      <map code="0x6539" name="uni6539"/><!-- CJK UNIFIED IDEOGRAPH-6539 -->
+      <map code="0x653e" name="uni653E"/><!-- CJK UNIFIED IDEOGRAPH-653E -->
+      <map code="0x6545" name="uni6545"/><!-- CJK UNIFIED IDEOGRAPH-6545 -->
+      <map code="0x6548" name="uni6548"/><!-- CJK UNIFIED IDEOGRAPH-6548 -->
+      <map code="0x6563" name="uni6563"/><!-- CJK UNIFIED IDEOGRAPH-6563 -->
+      <map code="0x6570" name="uni6570"/><!-- CJK UNIFIED IDEOGRAPH-6570 -->
+      <map code="0x6574" name="uni6574"/><!-- CJK UNIFIED IDEOGRAPH-6574 -->
+      <map code="0x6587" name="uni6587"/><!-- CJK UNIFIED IDEOGRAPH-6587 -->
+      <map code="0x6599" name="uni6599"/><!-- CJK UNIFIED IDEOGRAPH-6599 -->
+      <map code="0x65b0" name="uni65B0"/><!-- CJK UNIFIED IDEOGRAPH-65B0 -->
+      <map code="0x65b9" name="uni65B9"/><!-- CJK UNIFIED IDEOGRAPH-65B9 -->
+      <map code="0x65c5" name="uni65C5"/><!-- CJK UNIFIED IDEOGRAPH-65C5 -->
+      <map code="0x65e0" name="uni65E0"/><!-- CJK UNIFIED IDEOGRAPH-65E0 -->
+      <map code="0x65e5" name="uni65E5"/><!-- CJK UNIFIED IDEOGRAPH-65E5 -->
+      <map code="0x65e7" name="uni65E7"/><!-- CJK UNIFIED IDEOGRAPH-65E7 -->
+      <map code="0x65e9" name="uni65E9"/><!-- CJK UNIFIED IDEOGRAPH-65E9 -->
+      <map code="0x65f6" name="uni65F6"/><!-- CJK UNIFIED IDEOGRAPH-65F6 -->
+      <map code="0x660e" name="uni660E"/><!-- CJK UNIFIED IDEOGRAPH-660E -->
+      <map code="0x661f" name="uni661F"/><!-- CJK UNIFIED IDEOGRAPH-661F -->
+      <map code="0x6620" name="uni6620"/><!-- CJK UNIFIED IDEOGRAPH-6620 -->
+      <map code="0x6625" name="uni6625"/><!-- CJK UNIFIED IDEOGRAPH-6625 -->
+      <map code="0x6628" name="uni6628"/><!-- CJK UNIFIED IDEOGRAPH-6628 -->
+      <map code="0x662f" name="uni662F"/><!-- CJK UNIFIED IDEOGRAPH-662F -->
+      <map code="0x6635" name="uni6635"/><!-- CJK UNIFIED IDEOGRAPH-6635 -->
+      <map code="0x663e" name="uni663E"/><!-- CJK UNIFIED IDEOGRAPH-663E -->
+      <map code="0x6652" name="uni6652"/><!-- CJK UNIFIED IDEOGRAPH-6652 -->
+      <map code="0x665a" name="uni665A"/><!-- CJK UNIFIED IDEOGRAPH-665A -->
+      <map code="0x6668" name="uni6668"/><!-- CJK UNIFIED IDEOGRAPH-6668 -->
+      <map code="0x666e" name="uni666E"/><!-- CJK UNIFIED IDEOGRAPH-666E -->
+      <map code="0x666f" name="uni666F"/><!-- CJK UNIFIED IDEOGRAPH-666F -->
+      <map code="0x6674" name="uni6674"/><!-- CJK UNIFIED IDEOGRAPH-6674 -->
+      <map code="0x6682" name="uni6682"/><!-- CJK UNIFIED IDEOGRAPH-6682 -->
+      <map code="0x6696" name="uni6696"/><!-- CJK UNIFIED IDEOGRAPH-6696 -->
+      <map code="0x66f4" name="uni66F4"/><!-- CJK UNIFIED IDEOGRAPH-66F4 -->
+      <map code="0x6700" name="uni6700"/><!-- CJK UNIFIED IDEOGRAPH-6700 -->
+      <map code="0x6708" name="uni6708"/><!-- CJK UNIFIED IDEOGRAPH-6708 -->
+      <map code="0x6709" name="uni6709"/><!-- CJK UNIFIED IDEOGRAPH-6709 -->
+      <map code="0x670b" name="uni670B"/><!-- CJK UNIFIED IDEOGRAPH-670B -->
+      <map code="0x670d" name="uni670D"/><!-- CJK UNIFIED IDEOGRAPH-670D -->
+      <map code="0x671b" name="uni671B"/><!-- CJK UNIFIED IDEOGRAPH-671B -->
+      <map code="0x671f" name="uni671F"/><!-- CJK UNIFIED IDEOGRAPH-671F -->
+      <map code="0x672a" name="uni672A"/><!-- CJK UNIFIED IDEOGRAPH-672A -->
+      <map code="0x672b" name="uni672B"/><!-- CJK UNIFIED IDEOGRAPH-672B -->
+      <map code="0x672c" name="uni672C"/><!-- CJK UNIFIED IDEOGRAPH-672C -->
+      <map code="0x673a" name="uni673A"/><!-- CJK UNIFIED IDEOGRAPH-673A -->
+      <map code="0x6743" name="uni6743"/><!-- CJK UNIFIED IDEOGRAPH-6743 -->
+      <map code="0x6750" name="uni6750"/><!-- CJK UNIFIED IDEOGRAPH-6750 -->
+      <map code="0x675f" name="uni675F"/><!-- CJK UNIFIED IDEOGRAPH-675F -->
+      <map code="0x6761" name="uni6761"/><!-- CJK UNIFIED IDEOGRAPH-6761 -->
+      <map code="0x6765" name="uni6765"/><!-- CJK UNIFIED IDEOGRAPH-6765 -->
+      <map code="0x676d" name="uni676D"/><!-- CJK UNIFIED IDEOGRAPH-676D -->
+      <map code="0x6781" name="uni6781"/><!-- CJK UNIFIED IDEOGRAPH-6781 -->
+      <map code="0x679a" name="uni679A"/><!-- CJK UNIFIED IDEOGRAPH-679A -->
+      <map code="0x67d4" name="uni67D4"/><!-- CJK UNIFIED IDEOGRAPH-67D4 -->
+      <map code="0x67dc" name="uni67DC"/><!-- CJK UNIFIED IDEOGRAPH-67DC -->
+      <map code="0x67e5" name="uni67E5"/><!-- CJK UNIFIED IDEOGRAPH-67E5 -->
+      <map code="0x6807" name="uni6807"/><!-- CJK UNIFIED IDEOGRAPH-6807 -->
+      <map code="0x6837" name="uni6837"/><!-- CJK UNIFIED IDEOGRAPH-6837 -->
+      <map code="0x6838" name="uni6838"/><!-- CJK UNIFIED IDEOGRAPH-6838 -->
+      <map code="0x683c" name="uni683C"/><!-- CJK UNIFIED IDEOGRAPH-683C -->
+      <map code="0x6846" name="uni6846"/><!-- CJK UNIFIED IDEOGRAPH-6846 -->
+      <map code="0x6848" name="uni6848"/><!-- CJK UNIFIED IDEOGRAPH-6848 -->
+      <map code="0x6863" name="uni6863"/><!-- CJK UNIFIED IDEOGRAPH-6863 -->
+      <map code="0x68c0" name="uni68C0"/><!-- CJK UNIFIED IDEOGRAPH-68C0 -->
+      <map code="0x6a21" name="uni6A21"/><!-- CJK UNIFIED IDEOGRAPH-6A21 -->
+      <map code="0x6a31" name="uni6A31"/><!-- CJK UNIFIED IDEOGRAPH-6A31 -->
+      <map code="0x6b21" name="uni6B21"/><!-- CJK UNIFIED IDEOGRAPH-6B21 -->
+      <map code="0x6b22" name="uni6B22"/><!-- CJK UNIFIED IDEOGRAPH-6B22 -->
+      <map code="0x6b4c" name="uni6B4C"/><!-- CJK UNIFIED IDEOGRAPH-6B4C -->
+      <map code="0x6b62" name="uni6B62"/><!-- CJK UNIFIED IDEOGRAPH-6B62 -->
+      <map code="0x6b63" name="uni6B63"/><!-- CJK UNIFIED IDEOGRAPH-6B63 -->
+      <map code="0x6b64" name="uni6B64"/><!-- CJK UNIFIED IDEOGRAPH-6B64 -->
+      <map code="0x6b65" name="uni6B65"/><!-- CJK UNIFIED IDEOGRAPH-6B65 -->
+      <map code="0x6bb5" name="uni6BB5"/><!-- CJK UNIFIED IDEOGRAPH-6BB5 -->
+      <map code="0x6bcf" name="uni6BCF"/><!-- CJK UNIFIED IDEOGRAPH-6BCF -->
+      <map code="0x6bd4" name="uni6BD4"/><!-- CJK UNIFIED IDEOGRAPH-6BD4 -->
+      <map code="0x6c14" name="uni6C14"/><!-- CJK UNIFIED IDEOGRAPH-6C14 -->
+      <map code="0x6c99" name="uni6C99"/><!-- CJK UNIFIED IDEOGRAPH-6C99 -->
+      <map code="0x6c9f" name="uni6C9F"/><!-- CJK UNIFIED IDEOGRAPH-6C9F -->
+      <map code="0x6ca1" name="uni6CA1"/><!-- CJK UNIFIED IDEOGRAPH-6CA1 -->
+      <map code="0x6cd5" name="uni6CD5"/><!-- CJK UNIFIED IDEOGRAPH-6CD5 -->
+      <map code="0x6ce8" name="uni6CE8"/><!-- CJK UNIFIED IDEOGRAPH-6CE8 -->
+      <map code="0x6d3b" name="uni6D3B"/><!-- CJK UNIFIED IDEOGRAPH-6D3B -->
+      <map code="0x6d41" name="uni6D41"/><!-- CJK UNIFIED IDEOGRAPH-6D41 -->
+      <map code="0x6d6a" name="uni6D6A"/><!-- CJK UNIFIED IDEOGRAPH-6D6A -->
+      <map code="0x6d77" name="uni6D77"/><!-- CJK UNIFIED IDEOGRAPH-6D77 -->
+      <map code="0x6d88" name="uni6D88"/><!-- CJK UNIFIED IDEOGRAPH-6D88 -->
+      <map code="0x6dfb" name="uni6DFB"/><!-- CJK UNIFIED IDEOGRAPH-6DFB -->
+      <map code="0x6e05" name="uni6E05"/><!-- CJK UNIFIED IDEOGRAPH-6E05 -->
+      <map code="0x6e29" name="uni6E29"/><!-- CJK UNIFIED IDEOGRAPH-6E29 -->
+      <map code="0x6e38" name="uni6E38"/><!-- CJK UNIFIED IDEOGRAPH-6E38 -->
+      <map code="0x6e56" name="uni6E56"/><!-- CJK UNIFIED IDEOGRAPH-6E56 -->
+      <map code="0x6e7e" name="uni6E7E"/><!-- CJK UNIFIED IDEOGRAPH-6E7E -->
+      <map code="0x6ed1" name="uni6ED1"/><!-- CJK UNIFIED IDEOGRAPH-6ED1 -->
+      <map code="0x6ee1" name="uni6EE1"/><!-- CJK UNIFIED IDEOGRAPH-6EE1 -->
+      <map code="0x6f14" name="uni6F14"/><!-- CJK UNIFIED IDEOGRAPH-6F14 -->
+      <map code="0x6f2b" name="uni6F2B"/><!-- CJK UNIFIED IDEOGRAPH-6F2B -->
+      <map code="0x706b" name="uni706B"/><!-- CJK UNIFIED IDEOGRAPH-706B -->
+      <map code="0x70b9" name="uni70B9"/><!-- CJK UNIFIED IDEOGRAPH-70B9 -->
+      <map code="0x7167" name="uni7167"/><!-- CJK UNIFIED IDEOGRAPH-7167 -->
+      <map code="0x7231" name="uni7231"/><!-- CJK UNIFIED IDEOGRAPH-7231 -->
+      <map code="0x7247" name="uni7247"/><!-- CJK UNIFIED IDEOGRAPH-7247 -->
+      <map code="0x7248" name="uni7248"/><!-- CJK UNIFIED IDEOGRAPH-7248 -->
+      <map code="0x724c" name="uni724C"/><!-- CJK UNIFIED IDEOGRAPH-724C -->
+      <map code="0x7269" name="uni7269"/><!-- CJK UNIFIED IDEOGRAPH-7269 -->
+      <map code="0x7279" name="uni7279"/><!-- CJK UNIFIED IDEOGRAPH-7279 -->
+      <map code="0x72ec" name="uni72EC"/><!-- CJK UNIFIED IDEOGRAPH-72EC -->
+      <map code="0x732b" name="uni732B"/><!-- CJK UNIFIED IDEOGRAPH-732B -->
+      <map code="0x73af" name="uni73AF"/><!-- CJK UNIFIED IDEOGRAPH-73AF -->
+      <map code="0x73b0" name="uni73B0"/><!-- CJK UNIFIED IDEOGRAPH-73B0 -->
+      <map code="0x73ed" name="uni73ED"/><!-- CJK UNIFIED IDEOGRAPH-73ED -->
+      <map code="0x7406" name="uni7406"/><!-- CJK UNIFIED IDEOGRAPH-7406 -->
+      <map code="0x7410" name="uni7410"/><!-- CJK UNIFIED IDEOGRAPH-7410 -->
+      <map code="0x745c" name="uni745C"/><!-- CJK UNIFIED IDEOGRAPH-745C -->
+      <map code="0x751f" name="uni751F"/><!-- CJK UNIFIED IDEOGRAPH-751F -->
+      <map code="0x7528" name="uni7528"/><!-- CJK UNIFIED IDEOGRAPH-7528 -->
+      <map code="0x7531" name="uni7531"/><!-- CJK UNIFIED IDEOGRAPH-7531 -->
+      <map code="0x7533" name="uni7533"/><!-- CJK UNIFIED IDEOGRAPH-7533 -->
+      <map code="0x7535" name="uni7535"/><!-- CJK UNIFIED IDEOGRAPH-7535 -->
+      <map code="0x753b" name="uni753B"/><!-- CJK UNIFIED IDEOGRAPH-753B -->
+      <map code="0x7554" name="uni7554"/><!-- CJK UNIFIED IDEOGRAPH-7554 -->
+      <map code="0x7559" name="uni7559"/><!-- CJK UNIFIED IDEOGRAPH-7559 -->
+      <map code="0x767b" name="uni767B"/><!-- CJK UNIFIED IDEOGRAPH-767B -->
+      <map code="0x767d" name="uni767D"/><!-- CJK UNIFIED IDEOGRAPH-767D -->
+      <map code="0x7684" name="uni7684"/><!-- CJK UNIFIED IDEOGRAPH-7684 -->
+      <map code="0x76ee" name="uni76EE"/><!-- CJK UNIFIED IDEOGRAPH-76EE -->
+      <map code="0x76f4" name="uni76F4"/><!-- CJK UNIFIED IDEOGRAPH-76F4 -->
+      <map code="0x76f8" name="uni76F8"/><!-- CJK UNIFIED IDEOGRAPH-76F8 -->
+      <map code="0x770b" name="uni770B"/><!-- CJK UNIFIED IDEOGRAPH-770B -->
+      <map code="0x771f" name="uni771F"/><!-- CJK UNIFIED IDEOGRAPH-771F -->
+      <map code="0x77e5" name="uni77E5"/><!-- CJK UNIFIED IDEOGRAPH-77E5 -->
+      <map code="0x77ed" name="uni77ED"/><!-- CJK UNIFIED IDEOGRAPH-77ED -->
+      <map code="0x7801" name="uni7801"/><!-- CJK UNIFIED IDEOGRAPH-7801 -->
+      <map code="0x786e" name="uni786E"/><!-- CJK UNIFIED IDEOGRAPH-786E -->
+      <map code="0x788e" name="uni788E"/><!-- CJK UNIFIED IDEOGRAPH-788E -->
+      <map code="0x78b0" name="uni78B0"/><!-- CJK UNIFIED IDEOGRAPH-78B0 -->
+      <map code="0x793a" name="uni793A"/><!-- CJK UNIFIED IDEOGRAPH-793A -->
+      <map code="0x793c" name="uni793C"/><!-- CJK UNIFIED IDEOGRAPH-793C -->
+      <map code="0x798f" name="uni798F"/><!-- CJK UNIFIED IDEOGRAPH-798F -->
+      <map code="0x79cd" name="uni79CD"/><!-- CJK UNIFIED IDEOGRAPH-79CD -->
+      <map code="0x79d2" name="uni79D2"/><!-- CJK UNIFIED IDEOGRAPH-79D2 -->
+      <map code="0x79f0" name="uni79F0"/><!-- CJK UNIFIED IDEOGRAPH-79F0 -->
+      <map code="0x79fb" name="uni79FB"/><!-- CJK UNIFIED IDEOGRAPH-79FB -->
+      <map code="0x7a0b" name="uni7A0B"/><!-- CJK UNIFIED IDEOGRAPH-7A0B -->
+      <map code="0x7a0d" name="uni7A0D"/><!-- CJK UNIFIED IDEOGRAPH-7A0D -->
+      <map code="0x7a3f" name="uni7A3F"/><!-- CJK UNIFIED IDEOGRAPH-7A3F -->
+      <map code="0x7a7a" name="uni7A7A"/><!-- CJK UNIFIED IDEOGRAPH-7A7A -->
+      <map code="0x7a97" name="uni7A97"/><!-- CJK UNIFIED IDEOGRAPH-7A97 -->
+      <map code="0x7a9d" name="uni7A9D"/><!-- CJK UNIFIED IDEOGRAPH-7A9D -->
+      <map code="0x7acb" name="uni7ACB"/><!-- CJK UNIFIED IDEOGRAPH-7ACB -->
+      <map code="0x7ad9" name="uni7AD9"/><!-- CJK UNIFIED IDEOGRAPH-7AD9 -->
+      <map code="0x7aef" name="uni7AEF"/><!-- CJK UNIFIED IDEOGRAPH-7AEF -->
+      <map code="0x7b2c" name="uni7B2C"/><!-- CJK UNIFIED IDEOGRAPH-7B2C -->
+      <map code="0x7b49" name="uni7B49"/><!-- CJK UNIFIED IDEOGRAPH-7B49 -->
+      <map code="0x7b97" name="uni7B97"/><!-- CJK UNIFIED IDEOGRAPH-7B97 -->
+      <map code="0x7ba1" name="uni7BA1"/><!-- CJK UNIFIED IDEOGRAPH-7BA1 -->
+      <map code="0x7c7b" name="uni7C7B"/><!-- CJK UNIFIED IDEOGRAPH-7C7B -->
+      <map code="0x7cfb" name="uni7CFB"/><!-- CJK UNIFIED IDEOGRAPH-7CFB -->
+      <map code="0x7d20" name="uni7D20"/><!-- CJK UNIFIED IDEOGRAPH-7D20 -->
+      <map code="0x7d22" name="uni7D22"/><!-- CJK UNIFIED IDEOGRAPH-7D22 -->
+      <map code="0x7ea6" name="uni7EA6"/><!-- CJK UNIFIED IDEOGRAPH-7EA6 -->
+      <map code="0x7ea7" name="uni7EA7"/><!-- CJK UNIFIED IDEOGRAPH-7EA7 -->
+      <map code="0x7eaa" name="uni7EAA"/><!-- CJK UNIFIED IDEOGRAPH-7EAA -->
+      <map code="0x7ecf" name="uni7ECF"/><!-- CJK UNIFIED IDEOGRAPH-7ECF -->
+      <map code="0x7ed1" name="uni7ED1"/><!-- CJK UNIFIED IDEOGRAPH-7ED1 -->
+      <map code="0x7ed3" name="uni7ED3"/><!-- CJK UNIFIED IDEOGRAPH-7ED3 -->
+      <map code="0x7ed9" name="uni7ED9"/><!-- CJK UNIFIED IDEOGRAPH-7ED9 -->
+      <map code="0x7edc" name="uni7EDC"/><!-- CJK UNIFIED IDEOGRAPH-7EDC -->
+      <map code="0x7edd" name="uni7EDD"/><!-- CJK UNIFIED IDEOGRAPH-7EDD -->
+      <map code="0x7edf" name="uni7EDF"/><!-- CJK UNIFIED IDEOGRAPH-7EDF -->
+      <map code="0x7ee7" name="uni7EE7"/><!-- CJK UNIFIED IDEOGRAPH-7EE7 -->
+      <map code="0x7eed" name="uni7EED"/><!-- CJK UNIFIED IDEOGRAPH-7EED -->
+      <map code="0x7f16" name="uni7F16"/><!-- CJK UNIFIED IDEOGRAPH-7F16 -->
+      <map code="0x7f51" name="uni7F51"/><!-- CJK UNIFIED IDEOGRAPH-7F51 -->
+      <map code="0x7f6e" name="uni7F6E"/><!-- CJK UNIFIED IDEOGRAPH-7F6E -->
+      <map code="0x7f8e" name="uni7F8E"/><!-- CJK UNIFIED IDEOGRAPH-7F8E -->
+      <map code="0x7ffb" name="uni7FFB"/><!-- CJK UNIFIED IDEOGRAPH-7FFB -->
+      <map code="0x800c" name="uni800C"/><!-- CJK UNIFIED IDEOGRAPH-800C -->
+      <map code="0x804a" name="uni804A"/><!-- CJK UNIFIED IDEOGRAPH-804A -->
+      <map code="0x805a" name="uni805A"/><!-- CJK UNIFIED IDEOGRAPH-805A -->
+      <map code="0x80fd" name="uni80FD"/><!-- CJK UNIFIED IDEOGRAPH-80FD -->
+      <map code="0x81ea" name="uni81EA"/><!-- CJK UNIFIED IDEOGRAPH-81EA -->
+      <map code="0x81f3" name="uni81F3"/><!-- CJK UNIFIED IDEOGRAPH-81F3 -->
+      <map code="0x81f4" name="uni81F4"/><!-- CJK UNIFIED IDEOGRAPH-81F4 -->
+      <map code="0x8282" name="uni8282"/><!-- CJK UNIFIED IDEOGRAPH-8282 -->
+      <map code="0x82b1" name="uni82B1"/><!-- CJK UNIFIED IDEOGRAPH-82B1 -->
+      <map code="0x82e6" name="uni82E6"/><!-- CJK UNIFIED IDEOGRAPH-82E6 -->
+      <map code="0x8349" name="uni8349"/><!-- CJK UNIFIED IDEOGRAPH-8349 -->
+      <map code="0x83dc" name="uni83DC"/><!-- CJK UNIFIED IDEOGRAPH-83DC -->
+      <map code="0x85cf" name="uni85CF"/><!-- CJK UNIFIED IDEOGRAPH-85CF -->
+      <map code="0x884c" name="uni884C"/><!-- CJK UNIFIED IDEOGRAPH-884C -->
+      <map code="0x8865" name="uni8865"/><!-- CJK UNIFIED IDEOGRAPH-8865 -->
+      <map code="0x88c5" name="uni88C5"/><!-- CJK UNIFIED IDEOGRAPH-88C5 -->
+      <map code="0x897f" name="uni897F"/><!-- CJK UNIFIED IDEOGRAPH-897F -->
+      <map code="0x8981" name="uni8981"/><!-- CJK UNIFIED IDEOGRAPH-8981 -->
+      <map code="0x89c1" name="uni89C1"/><!-- CJK UNIFIED IDEOGRAPH-89C1 -->
+      <map code="0x89c8" name="uni89C8"/><!-- CJK UNIFIED IDEOGRAPH-89C8 -->
+      <map code="0x89e3" name="uni89E3"/><!-- CJK UNIFIED IDEOGRAPH-89E3 -->
+      <map code="0x8ba1" name="uni8BA1"/><!-- CJK UNIFIED IDEOGRAPH-8BA1 -->
+      <map code="0x8ba2" name="uni8BA2"/><!-- CJK UNIFIED IDEOGRAPH-8BA2 -->
+      <map code="0x8ba4" name="uni8BA4"/><!-- CJK UNIFIED IDEOGRAPH-8BA4 -->
+      <map code="0x8ba8" name="uni8BA8"/><!-- CJK UNIFIED IDEOGRAPH-8BA8 -->
+      <map code="0x8ba9" name="uni8BA9"/><!-- CJK UNIFIED IDEOGRAPH-8BA9 -->
+      <map code="0x8bae" name="uni8BAE"/><!-- CJK UNIFIED IDEOGRAPH-8BAE -->
+      <map code="0x8bb0" name="uni8BB0"/><!-- CJK UNIFIED IDEOGRAPH-8BB0 -->
+      <map code="0x8bba" name="uni8BBA"/><!-- CJK UNIFIED IDEOGRAPH-8BBA -->
+      <map code="0x8bbe" name="uni8BBE"/><!-- CJK UNIFIED IDEOGRAPH-8BBE -->
+      <map code="0x8bc1" name="uni8BC1"/><!-- CJK UNIFIED IDEOGRAPH-8BC1 -->
+      <map code="0x8bc6" name="uni8BC6"/><!-- CJK UNIFIED IDEOGRAPH-8BC6 -->
+      <map code="0x8bc9" name="uni8BC9"/><!-- CJK UNIFIED IDEOGRAPH-8BC9 -->
+      <map code="0x8bd5" name="uni8BD5"/><!-- CJK UNIFIED IDEOGRAPH-8BD5 -->
+      <map code="0x8bdd" name="uni8BDD"/><!-- CJK UNIFIED IDEOGRAPH-8BDD -->
+      <map code="0x8bf4" name="uni8BF4"/><!-- CJK UNIFIED IDEOGRAPH-8BF4 -->
+      <map code="0x8bf7" name="uni8BF7"/><!-- CJK UNIFIED IDEOGRAPH-8BF7 -->
+      <map code="0x8bfb" name="uni8BFB"/><!-- CJK UNIFIED IDEOGRAPH-8BFB -->
+      <map code="0x8bfe" name="uni8BFE"/><!-- CJK UNIFIED IDEOGRAPH-8BFE -->
+      <map code="0x8c03" name="uni8C03"/><!-- CJK UNIFIED IDEOGRAPH-8C03 -->
+      <map code="0x8c22" name="uni8C22"/><!-- CJK UNIFIED IDEOGRAPH-8C22 -->
+      <map code="0x8c46" name="uni8C46"/><!-- CJK UNIFIED IDEOGRAPH-8C46 -->
+      <map code="0x8c61" name="uni8C61"/><!-- CJK UNIFIED IDEOGRAPH-8C61 -->
+      <map code="0x8d25" name="uni8D25"/><!-- CJK UNIFIED IDEOGRAPH-8D25 -->
+      <map code="0x8d26" name="uni8D26"/><!-- CJK UNIFIED IDEOGRAPH-8D26 -->
+      <map code="0x8d28" name="uni8D28"/><!-- CJK UNIFIED IDEOGRAPH-8D28 -->
+      <map code="0x8d2d" name="uni8D2D"/><!-- CJK UNIFIED IDEOGRAPH-8D2D -->
+      <map code="0x8d34" name="uni8D34"/><!-- CJK UNIFIED IDEOGRAPH-8D34 -->
+      <map code="0x8d44" name="uni8D44"/><!-- CJK UNIFIED IDEOGRAPH-8D44 -->
+      <map code="0x8d56" name="uni8D56"/><!-- CJK UNIFIED IDEOGRAPH-8D56 -->
+      <map code="0x8d70" name="uni8D70"/><!-- CJK UNIFIED IDEOGRAPH-8D70 -->
+      <map code="0x8d74" name="uni8D74"/><!-- CJK UNIFIED IDEOGRAPH-8D74 -->
+      <map code="0x8d77" name="uni8D77"/><!-- CJK UNIFIED IDEOGRAPH-8D77 -->
+      <map code="0x8d85" name="uni8D85"/><!-- CJK UNIFIED IDEOGRAPH-8D85 -->
+      <map code="0x8ddf" name="uni8DDF"/><!-- CJK UNIFIED IDEOGRAPH-8DDF -->
+      <map code="0x8def" name="uni8DEF"/><!-- CJK UNIFIED IDEOGRAPH-8DEF -->
+      <map code="0x8df3" name="uni8DF3"/><!-- CJK UNIFIED IDEOGRAPH-8DF3 -->
+      <map code="0x8eab" name="uni8EAB"/><!-- CJK UNIFIED IDEOGRAPH-8EAB -->
+      <map code="0x8f6c" name="uni8F6C"/><!-- CJK UNIFIED IDEOGRAPH-8F6C -->
+      <map code="0x8f6f" name="uni8F6F"/><!-- CJK UNIFIED IDEOGRAPH-8F6F -->
+      <map code="0x8f7d" name="uni8F7D"/><!-- CJK UNIFIED IDEOGRAPH-8F7D -->
+      <map code="0x8f91" name="uni8F91"/><!-- CJK UNIFIED IDEOGRAPH-8F91 -->
+      <map code="0x8f93" name="uni8F93"/><!-- CJK UNIFIED IDEOGRAPH-8F93 -->
+      <map code="0x8f9b" name="uni8F9B"/><!-- CJK UNIFIED IDEOGRAPH-8F9B -->
+      <map code="0x8fbe" name="uni8FBE"/><!-- CJK UNIFIED IDEOGRAPH-8FBE -->
+      <map code="0x8fc7" name="uni8FC7"/><!-- CJK UNIFIED IDEOGRAPH-8FC7 -->
+      <map code="0x8fd0" name="uni8FD0"/><!-- CJK UNIFIED IDEOGRAPH-8FD0 -->
+      <map code="0x8fd1" name="uni8FD1"/><!-- CJK UNIFIED IDEOGRAPH-8FD1 -->
+      <map code="0x8fd4" name="uni8FD4"/><!-- CJK UNIFIED IDEOGRAPH-8FD4 -->
+      <map code="0x8fd8" name="uni8FD8"/><!-- CJK UNIFIED IDEOGRAPH-8FD8 -->
+      <map code="0x8fd9" name="uni8FD9"/><!-- CJK UNIFIED IDEOGRAPH-8FD9 -->
+      <map code="0x8fdb" name="uni8FDB"/><!-- CJK UNIFIED IDEOGRAPH-8FDB -->
+      <map code="0x8fdc" name="uni8FDC"/><!-- CJK UNIFIED IDEOGRAPH-8FDC -->
+      <map code="0x8fde" name="uni8FDE"/><!-- CJK UNIFIED IDEOGRAPH-8FDE -->
+      <map code="0x8ff0" name="uni8FF0"/><!-- CJK UNIFIED IDEOGRAPH-8FF0 -->
+      <map code="0x9001" name="uni9001"/><!-- CJK UNIFIED IDEOGRAPH-9001 -->
+      <map code="0x9009" name="uni9009"/><!-- CJK UNIFIED IDEOGRAPH-9009 -->
+      <map code="0x9014" name="uni9014"/><!-- CJK UNIFIED IDEOGRAPH-9014 -->
+      <map code="0x901a" name="uni901A"/><!-- CJK UNIFIED IDEOGRAPH-901A -->
+      <map code="0x9020" name="uni9020"/><!-- CJK UNIFIED IDEOGRAPH-9020 -->
+      <map code="0x9053" name="uni9053"/><!-- CJK UNIFIED IDEOGRAPH-9053 -->
+      <map code="0x905b" name="uni905B"/><!-- CJK UNIFIED IDEOGRAPH-905B -->
+      <map code="0x9080" name="uni9080"/><!-- CJK UNIFIED IDEOGRAPH-9080 -->
+      <map code="0x90a3" name="uni90A3"/><!-- CJK UNIFIED IDEOGRAPH-90A3 -->
+      <map code="0x90e8" name="uni90E8"/><!-- CJK UNIFIED IDEOGRAPH-90E8 -->
+      <map code="0x90fd" name="uni90FD"/><!-- CJK UNIFIED IDEOGRAPH-90FD -->
+      <map code="0x9192" name="uni9192"/><!-- CJK UNIFIED IDEOGRAPH-9192 -->
+      <map code="0x91c7" name="uni91C7"/><!-- CJK UNIFIED IDEOGRAPH-91C7 -->
+      <map code="0x91cc" name="uni91CC"/><!-- CJK UNIFIED IDEOGRAPH-91CC -->
+      <map code="0x91cd" name="uni91CD"/><!-- CJK UNIFIED IDEOGRAPH-91CD -->
+      <map code="0x91cf" name="uni91CF"/><!-- CJK UNIFIED IDEOGRAPH-91CF -->
+      <map code="0x949f" name="uni949F"/><!-- CJK UNIFIED IDEOGRAPH-949F -->
+      <map code="0x94b1" name="uni94B1"/><!-- CJK UNIFIED IDEOGRAPH-94B1 -->
+      <map code="0x94fe" name="uni94FE"/><!-- CJK UNIFIED IDEOGRAPH-94FE -->
+      <map code="0x9500" name="uni9500"/><!-- CJK UNIFIED IDEOGRAPH-9500 -->
+      <map code="0x9505" name="uni9505"/><!-- CJK UNIFIED IDEOGRAPH-9505 -->
+      <map code="0x957f" name="uni957F"/><!-- CJK UNIFIED IDEOGRAPH-957F -->
+      <map code="0x95ea" name="uni95EA"/><!-- CJK UNIFIED IDEOGRAPH-95EA -->
+      <map code="0x95ed" name="uni95ED"/><!-- CJK UNIFIED IDEOGRAPH-95ED -->
+      <map code="0x95f0" name="uni95F0"/><!-- CJK UNIFIED IDEOGRAPH-95F0 -->
+      <map code="0x95f4" name="uni95F4"/><!-- CJK UNIFIED IDEOGRAPH-95F4 -->
+      <map code="0x9605" name="uni9605"/><!-- CJK UNIFIED IDEOGRAPH-9605 -->
+      <map code="0x9633" name="uni9633"/><!-- CJK UNIFIED IDEOGRAPH-9633 -->
+      <map code="0x9645" name="uni9645"/><!-- CJK UNIFIED IDEOGRAPH-9645 -->
+      <map code="0x9650" name="uni9650"/><!-- CJK UNIFIED IDEOGRAPH-9650 -->
+      <map code="0x9664" name="uni9664"/><!-- CJK UNIFIED IDEOGRAPH-9664 -->
+      <map code="0x966a" name="uni966A"/><!-- CJK UNIFIED IDEOGRAPH-966A -->
+      <map code="0x968f" name="uni968F"/><!-- CJK UNIFIED IDEOGRAPH-968F -->
+      <map code="0x96c6" name="uni96C6"/><!-- CJK UNIFIED IDEOGRAPH-96C6 -->
+      <map code="0x96ea" name="uni96EA"/><!-- CJK UNIFIED IDEOGRAPH-96EA -->
+      <map code="0x96f6" name="uni96F6"/><!-- CJK UNIFIED IDEOGRAPH-96F6 -->
+      <map code="0x9700" name="uni9700"/><!-- CJK UNIFIED IDEOGRAPH-9700 -->
+      <map code="0x975e" name="uni975E"/><!-- CJK UNIFIED IDEOGRAPH-975E -->
+      <map code="0x9760" name="uni9760"/><!-- CJK UNIFIED IDEOGRAPH-9760 -->
+      <map code="0x9762" name="uni9762"/><!-- CJK UNIFIED IDEOGRAPH-9762 -->
+      <map code="0x9875" name="uni9875"/><!-- CJK UNIFIED IDEOGRAPH-9875 -->
+      <map code="0x9879" name="uni9879"/><!-- CJK UNIFIED IDEOGRAPH-9879 -->
+      <map code="0x987a" name="uni987A"/><!-- CJK UNIFIED IDEOGRAPH-987A -->
+      <map code="0x987e" name="uni987E"/><!-- CJK UNIFIED IDEOGRAPH-987E -->
+      <map code="0x987f" name="uni987F"/><!-- CJK UNIFIED IDEOGRAPH-987F -->
+      <map code="0x9884" name="uni9884"/><!-- CJK UNIFIED IDEOGRAPH-9884 -->
+      <map code="0x9898" name="uni9898"/><!-- CJK UNIFIED IDEOGRAPH-9898 -->
+      <map code="0x989d" name="uni989D"/><!-- CJK UNIFIED IDEOGRAPH-989D -->
+      <map code="0x98ce" name="uni98CE"/><!-- CJK UNIFIED IDEOGRAPH-98CE -->
+      <map code="0x98df" name="uni98DF"/><!-- CJK UNIFIED IDEOGRAPH-98DF -->
+      <map code="0x9910" name="uni9910"/><!-- CJK UNIFIED IDEOGRAPH-9910 -->
+      <map code="0x996d" name="uni996D"/><!-- CJK UNIFIED IDEOGRAPH-996D -->
+      <map code="0x9a8c" name="uni9A8C"/><!-- CJK UNIFIED IDEOGRAPH-9A8C -->
+      <map code="0x9ed8" name="uni9ED8"/><!-- CJK UNIFIED IDEOGRAPH-9ED8 -->
+      <map code="0xff01" name="uniFF01"/><!-- FULLWIDTH EXCLAMATION MARK -->
+      <map code="0xff08" name="uniFF08"/><!-- FULLWIDTH LEFT PARENTHESIS -->
+      <map code="0xff09" name="uniFF09"/><!-- FULLWIDTH RIGHT PARENTHESIS -->
+      <map code="0xff0c" name="uniFF0C"/><!-- FULLWIDTH COMMA -->
+      <map code="0xff1a" name="uniFF1A"/><!-- FULLWIDTH COLON -->
+      <map code="0xff1b" name="uniFF1B"/><!-- FULLWIDTH SEMICOLON -->
+      <map code="0xff1f" name="uniFF1F"/><!-- FULLWIDTH QUESTION MARK -->
+      <map code="0xff3b" name="uniFF3B"/><!-- FULLWIDTH LEFT SQUARE BRACKET -->
+      <map code="0xff3d" name="uniFF3D"/><!-- FULLWIDTH RIGHT SQUARE BRACKET -->
+      <map code="0xff5b" name="uniFF5B"/><!-- FULLWIDTH LEFT CURLY BRACKET -->
+      <map code="0xff5d" name="uniFF5D"/><!-- FULLWIDTH RIGHT CURLY BRACKET -->
+      <map code="0xff5e" name="uniFF5E"/><!-- FULLWIDTH TILDE -->
+      <map code="0xffe5" name="uniFFE5"/><!-- FULLWIDTH YEN SIGN -->
+    </cmap_format_4>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x20" name="uni0020"/><!-- SPACE -->
+      <map code="0x21" name="uni0021"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="uni0022"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="uni0023"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="uni0024"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="uni0025"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="uni0026"/><!-- AMPERSAND -->
+      <map code="0x27" name="uni0027"/><!-- APOSTROPHE -->
+      <map code="0x28" name="uni0028"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="uni0029"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="uni002A"/><!-- ASTERISK -->
+      <map code="0x2b" name="uni002B"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="uni002C"/><!-- COMMA -->
+      <map code="0x2d" name="uni002D"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="uni002E"/><!-- FULL STOP -->
+      <map code="0x2f" name="uni002F"/><!-- SOLIDUS -->
+      <map code="0x30" name="uni0030"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="uni0031"/><!-- DIGIT ONE -->
+      <map code="0x32" name="uni0032"/><!-- DIGIT TWO -->
+      <map code="0x33" name="uni0033"/><!-- DIGIT THREE -->
+      <map code="0x34" name="uni0034"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="uni0035"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="uni0036"/><!-- DIGIT SIX -->
+      <map code="0x37" name="uni0037"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="uni0038"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="uni0039"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="uni003A"/><!-- COLON -->
+      <map code="0x3b" name="uni003B"/><!-- SEMICOLON -->
+      <map code="0x3c" name="uni003C"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="uni003D"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="uni003E"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="uni003F"/><!-- QUESTION MARK -->
+      <map code="0x40" name="uni0040"/><!-- COMMERCIAL AT -->
+      <map code="0x41" name="uni0041"/><!-- LATIN CAPITAL LETTER A -->
+      <map code="0x42" name="uni0042"/><!-- LATIN CAPITAL LETTER B -->
+      <map code="0x43" name="uni0043"/><!-- LATIN CAPITAL LETTER C -->
+      <map code="0x44" name="uni0044"/><!-- LATIN CAPITAL LETTER D -->
+      <map code="0x45" name="uni0045"/><!-- LATIN CAPITAL LETTER E -->
+      <map code="0x46" name="uni0046"/><!-- LATIN CAPITAL LETTER F -->
+      <map code="0x47" name="uni0047"/><!-- LATIN CAPITAL LETTER G -->
+      <map code="0x48" name="uni0048"/><!-- LATIN CAPITAL LETTER H -->
+      <map code="0x49" name="uni0049"/><!-- LATIN CAPITAL LETTER I -->
+      <map code="0x4a" name="uni004A"/><!-- LATIN CAPITAL LETTER J -->
+      <map code="0x4b" name="uni004B"/><!-- LATIN CAPITAL LETTER K -->
+      <map code="0x4c" name="uni004C"/><!-- LATIN CAPITAL LETTER L -->
+      <map code="0x4d" name="uni004D"/><!-- LATIN CAPITAL LETTER M -->
+      <map code="0x4e" name="uni004E"/><!-- LATIN CAPITAL LETTER N -->
+      <map code="0x4f" name="uni004F"/><!-- LATIN CAPITAL LETTER O -->
+      <map code="0x50" name="uni0050"/><!-- LATIN CAPITAL LETTER P -->
+      <map code="0x51" name="uni0051"/><!-- LATIN CAPITAL LETTER Q -->
+      <map code="0x52" name="uni0052"/><!-- LATIN CAPITAL LETTER R -->
+      <map code="0x53" name="uni0053"/><!-- LATIN CAPITAL LETTER S -->
+      <map code="0x54" name="uni0054"/><!-- LATIN CAPITAL LETTER T -->
+      <map code="0x55" name="uni0055"/><!-- LATIN CAPITAL LETTER U -->
+      <map code="0x56" name="uni0056"/><!-- LATIN CAPITAL LETTER V -->
+      <map code="0x57" name="uni0057"/><!-- LATIN CAPITAL LETTER W -->
+      <map code="0x58" name="uni0058"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="uni0059"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5a" name="uni005A"/><!-- LATIN CAPITAL LETTER Z -->
+      <map code="0x5b" name="uni005B"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="uni005C"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="uni005D"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="uni005E"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="uni005F"/><!-- LOW LINE -->
+      <map code="0x60" name="uni0060"/><!-- GRAVE ACCENT -->
+      <map code="0x61" name="uni0061"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="uni0062"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x63" name="uni0063"/><!-- LATIN SMALL LETTER C -->
+      <map code="0x64" name="uni0064"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="uni0065"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="uni0066"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="uni0067"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="uni0068"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="uni0069"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="uni006A"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="uni006B"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="uni006C"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="uni006D"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="uni006E"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="uni006F"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="uni0070"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="uni0071"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="uni0072"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="uni0073"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="uni0074"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="uni0075"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="uni0076"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="uni0077"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="uni0078"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="uni0079"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="uni007A"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x7b" name="uni007B"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="uni007C"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="uni007D"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="uni007E"/><!-- TILDE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xa5" name="uni00A5"/><!-- YEN SIGN -->
+      <map code="0xb0" name="uni00B0"/><!-- DEGREE SIGN -->
+      <map code="0xb7" name="uni00B7"/><!-- MIDDLE DOT -->
+      <map code="0xd7" name="uni00D7"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xf7" name="uni00F7"/><!-- DIVISION SIGN -->
+      <map code="0x2013" name="uni2013"/><!-- EN DASH -->
+      <map code="0x2014" name="uni2014"/><!-- EM DASH -->
+      <map code="0x2018" name="uni2018"/><!-- LEFT SINGLE QUOTATION MARK -->
+      <map code="0x2019" name="uni2019"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201c" name="uni201C"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x201d" name="uni201D"/><!-- RIGHT DOUBLE QUOTATION MARK -->
+      <map code="0x2026" name="uni2026"/><!-- HORIZONTAL ELLIPSIS -->
+      <map code="0x2212" name="uni2212"/><!-- MINUS SIGN -->
+      <map code="0x2661" name="uni2661"/><!-- WHITE HEART SUIT -->
+      <map code="0x2665" name="uni2665"/><!-- BLACK HEART SUIT -->
+      <map code="0x3000" name="uni3000"/><!-- IDEOGRAPHIC SPACE -->
+      <map code="0x3001" name="uni3001"/><!-- IDEOGRAPHIC COMMA -->
+      <map code="0x3002" name="uni3002"/><!-- IDEOGRAPHIC FULL STOP -->
+      <map code="0x3008" name="uni3008"/><!-- LEFT ANGLE BRACKET -->
+      <map code="0x3009" name="uni3009"/><!-- RIGHT ANGLE BRACKET -->
+      <map code="0x300a" name="uni300A"/><!-- LEFT DOUBLE ANGLE BRACKET -->
+      <map code="0x300b" name="uni300B"/><!-- RIGHT DOUBLE ANGLE BRACKET -->
+      <map code="0x300c" name="uni300C"/><!-- LEFT CORNER BRACKET -->
+      <map code="0x300d" name="uni300D"/><!-- RIGHT CORNER BRACKET -->
+      <map code="0x300e" name="uni300E"/><!-- LEFT WHITE CORNER BRACKET -->
+      <map code="0x300f" name="uni300F"/><!-- RIGHT WHITE CORNER BRACKET -->
+      <map code="0x3010" name="uni3010"/><!-- LEFT BLACK LENTICULAR BRACKET -->
+      <map code="0x3011" name="uni3011"/><!-- RIGHT BLACK LENTICULAR BRACKET -->
+      <map code="0x3014" name="uni3014"/><!-- LEFT TORTOISE SHELL BRACKET -->
+      <map code="0x3015" name="uni3015"/><!-- RIGHT TORTOISE SHELL BRACKET -->
+      <map code="0x4e00" name="uni4E00"/><!-- CJK UNIFIED IDEOGRAPH-4E00 -->
+      <map code="0x4e07" name="uni4E07"/><!-- CJK UNIFIED IDEOGRAPH-4E07 -->
+      <map code="0x4e09" name="uni4E09"/><!-- CJK UNIFIED IDEOGRAPH-4E09 -->
+      <map code="0x4e0a" name="uni4E0A"/><!-- CJK UNIFIED IDEOGRAPH-4E0A -->
+      <map code="0x4e0b" name="uni4E0B"/><!-- CJK UNIFIED IDEOGRAPH-4E0B -->
+      <map code="0x4e0d" name="uni4E0D"/><!-- CJK UNIFIED IDEOGRAPH-4E0D -->
+      <map code="0x4e0e" name="uni4E0E"/><!-- CJK UNIFIED IDEOGRAPH-4E0E -->
+      <map code="0x4e1a" name="uni4E1A"/><!-- CJK UNIFIED IDEOGRAPH-4E1A -->
+      <map code="0x4e1c" name="uni4E1C"/><!-- CJK UNIFIED IDEOGRAPH-4E1C -->
+      <map code="0x4e24" name="uni4E24"/><!-- CJK UNIFIED IDEOGRAPH-4E24 -->
+      <map code="0x4e2a" name="uni4E2A"/><!-- CJK UNIFIED IDEOGRAPH-4E2A -->
+      <map code="0x4e2d" name="uni4E2D"/><!-- CJK UNIFIED IDEOGRAPH-4E2D -->
+      <map code="0x4e34" name="uni4E34"/><!-- CJK UNIFIED IDEOGRAPH-4E34 -->
+      <map code="0x4e3a" name="uni4E3A"/><!-- CJK UNIFIED IDEOGRAPH-4E3A -->
+      <map code="0x4e3b" name="uni4E3B"/><!-- CJK UNIFIED IDEOGRAPH-4E3B -->
+      <map code="0x4e45" name="uni4E45"/><!-- CJK UNIFIED IDEOGRAPH-4E45 -->
+      <map code="0x4e48" name="uni4E48"/><!-- CJK UNIFIED IDEOGRAPH-4E48 -->
+      <map code="0x4e49" name="uni4E49"/><!-- CJK UNIFIED IDEOGRAPH-4E49 -->
+      <map code="0x4e4b" name="uni4E4B"/><!-- CJK UNIFIED IDEOGRAPH-4E4B -->
+      <map code="0x4e50" name="uni4E50"/><!-- CJK UNIFIED IDEOGRAPH-4E50 -->
+      <map code="0x4e5f" name="uni4E5F"/><!-- CJK UNIFIED IDEOGRAPH-4E5F -->
+      <map code="0x4e60" name="uni4E60"/><!-- CJK UNIFIED IDEOGRAPH-4E60 -->
+      <map code="0x4e70" name="uni4E70"/><!-- CJK UNIFIED IDEOGRAPH-4E70 -->
+      <map code="0x4e86" name="uni4E86"/><!-- CJK UNIFIED IDEOGRAPH-4E86 -->
+      <map code="0x4e8b" name="uni4E8B"/><!-- CJK UNIFIED IDEOGRAPH-4E8B -->
+      <map code="0x4e8c" name="uni4E8C"/><!-- CJK UNIFIED IDEOGRAPH-4E8C -->
+      <map code="0x4e8e" name="uni4E8E"/><!-- CJK UNIFIED IDEOGRAPH-4E8E -->
+      <map code="0x4e91" name="uni4E91"/><!-- CJK UNIFIED IDEOGRAPH-4E91 -->
+      <map code="0x4e94" name="uni4E94"/><!-- CJK UNIFIED IDEOGRAPH-4E94 -->
+      <map code="0x4e9b" name="uni4E9B"/><!-- CJK UNIFIED IDEOGRAPH-4E9B -->
+      <map code="0x4ea4" name="uni4EA4"/><!-- CJK UNIFIED IDEOGRAPH-4EA4 -->
+      <map code="0x4eba" name="uni4EBA"/><!-- CJK UNIFIED IDEOGRAPH-4EBA -->
+      <map code="0x4ec0" name="uni4EC0"/><!-- CJK UNIFIED IDEOGRAPH-4EC0 -->
+      <map code="0x4eca" name="uni4ECA"/><!-- CJK UNIFIED IDEOGRAPH-4ECA -->
+      <map code="0x4ecd" name="uni4ECD"/><!-- CJK UNIFIED IDEOGRAPH-4ECD -->
+      <map code="0x4ece" name="uni4ECE"/><!-- CJK UNIFIED IDEOGRAPH-4ECE -->
+      <map code="0x4ed6" name="uni4ED6"/><!-- CJK UNIFIED IDEOGRAPH-4ED6 -->
+      <map code="0x4ee4" name="uni4EE4"/><!-- CJK UNIFIED IDEOGRAPH-4EE4 -->
+      <map code="0x4ee5" name="uni4EE5"/><!-- CJK UNIFIED IDEOGRAPH-4EE5 -->
+      <map code="0x4eec" name="uni4EEC"/><!-- CJK UNIFIED IDEOGRAPH-4EEC -->
+      <map code="0x4ef6" name="uni4EF6"/><!-- CJK UNIFIED IDEOGRAPH-4EF6 -->
+      <map code="0x4efd" name="uni4EFD"/><!-- CJK UNIFIED IDEOGRAPH-4EFD -->
+      <map code="0x4f18" name="uni4F18"/><!-- CJK UNIFIED IDEOGRAPH-4F18 -->
+      <map code="0x4f19" name="uni4F19"/><!-- CJK UNIFIED IDEOGRAPH-4F19 -->
+      <map code="0x4f1a" name="uni4F1A"/><!-- CJK UNIFIED IDEOGRAPH-4F1A -->
+      <map code="0x4f20" name="uni4F20"/><!-- CJK UNIFIED IDEOGRAPH-4F20 -->
+      <map code="0x4f34" name="uni4F34"/><!-- CJK UNIFIED IDEOGRAPH-4F34 -->
+      <map code="0x4f3d" name="uni4F3D"/><!-- CJK UNIFIED IDEOGRAPH-4F3D -->
+      <map code="0x4f46" name="uni4F46"/><!-- CJK UNIFIED IDEOGRAPH-4F46 -->
+      <map code="0x4f4d" name="uni4F4D"/><!-- CJK UNIFIED IDEOGRAPH-4F4D -->
+      <map code="0x4f4f" name="uni4F4F"/><!-- CJK UNIFIED IDEOGRAPH-4F4F -->
+      <map code="0x4f53" name="uni4F53"/><!-- CJK UNIFIED IDEOGRAPH-4F53 -->
+      <map code="0x4f5c" name="uni4F5C"/><!-- CJK UNIFIED IDEOGRAPH-4F5C -->
+      <map code="0x4f60" name="uni4F60"/><!-- CJK UNIFIED IDEOGRAPH-4F60 -->
+      <map code="0x4f7f" name="uni4F7F"/><!-- CJK UNIFIED IDEOGRAPH-4F7F -->
+      <map code="0x4f8b" name="uni4F8B"/><!-- CJK UNIFIED IDEOGRAPH-4F8B -->
+      <map code="0x4f9d" name="uni4F9D"/><!-- CJK UNIFIED IDEOGRAPH-4F9D -->
+      <map code="0x4fa3" name="uni4FA3"/><!-- CJK UNIFIED IDEOGRAPH-4FA3 -->
+      <map code="0x4fbf" name="uni4FBF"/><!-- CJK UNIFIED IDEOGRAPH-4FBF -->
+      <map code="0x4fdd" name="uni4FDD"/><!-- CJK UNIFIED IDEOGRAPH-4FDD -->
+      <map code="0x4fe1" name="uni4FE1"/><!-- CJK UNIFIED IDEOGRAPH-4FE1 -->
+      <map code="0x4fee" name="uni4FEE"/><!-- CJK UNIFIED IDEOGRAPH-4FEE -->
+      <map code="0x5019" name="uni5019"/><!-- CJK UNIFIED IDEOGRAPH-5019 -->
+      <map code="0x503c" name="uni503C"/><!-- CJK UNIFIED IDEOGRAPH-503C -->
+      <map code="0x505a" name="uni505A"/><!-- CJK UNIFIED IDEOGRAPH-505A -->
+      <map code="0x505c" name="uni505C"/><!-- CJK UNIFIED IDEOGRAPH-505C -->
+      <map code="0x5065" name="uni5065"/><!-- CJK UNIFIED IDEOGRAPH-5065 -->
+      <map code="0x5077" name="uni5077"/><!-- CJK UNIFIED IDEOGRAPH-5077 -->
+      <map code="0x50cf" name="uni50CF"/><!-- CJK UNIFIED IDEOGRAPH-50CF -->
+      <map code="0x5143" name="uni5143"/><!-- CJK UNIFIED IDEOGRAPH-5143 -->
+      <map code="0x5145" name="uni5145"/><!-- CJK UNIFIED IDEOGRAPH-5145 -->
+      <map code="0x5148" name="uni5148"/><!-- CJK UNIFIED IDEOGRAPH-5148 -->
+      <map code="0x5149" name="uni5149"/><!-- CJK UNIFIED IDEOGRAPH-5149 -->
+      <map code="0x5165" name="uni5165"/><!-- CJK UNIFIED IDEOGRAPH-5165 -->
+      <map code="0x5168" name="uni5168"/><!-- CJK UNIFIED IDEOGRAPH-5168 -->
+      <map code="0x516c" name="uni516C"/><!-- CJK UNIFIED IDEOGRAPH-516C -->
+      <map code="0x516d" name="uni516D"/><!-- CJK UNIFIED IDEOGRAPH-516D -->
+      <map code="0x5171" name="uni5171"/><!-- CJK UNIFIED IDEOGRAPH-5171 -->
+      <map code="0x5173" name="uni5173"/><!-- CJK UNIFIED IDEOGRAPH-5173 -->
+      <map code="0x5176" name="uni5176"/><!-- CJK UNIFIED IDEOGRAPH-5176 -->
+      <map code="0x5177" name="uni5177"/><!-- CJK UNIFIED IDEOGRAPH-5177 -->
+      <map code="0x517b" name="uni517B"/><!-- CJK UNIFIED IDEOGRAPH-517B -->
+      <map code="0x5185" name="uni5185"/><!-- CJK UNIFIED IDEOGRAPH-5185 -->
+      <map code="0x518c" name="uni518C"/><!-- CJK UNIFIED IDEOGRAPH-518C -->
+      <map code="0x518d" name="uni518D"/><!-- CJK UNIFIED IDEOGRAPH-518D -->
+      <map code="0x5199" name="uni5199"/><!-- CJK UNIFIED IDEOGRAPH-5199 -->
+      <map code="0x51ac" name="uni51AC"/><!-- CJK UNIFIED IDEOGRAPH-51AC -->
+      <map code="0x51b0" name="uni51B0"/><!-- CJK UNIFIED IDEOGRAPH-51B0 -->
+      <map code="0x51b3" name="uni51B3"/><!-- CJK UNIFIED IDEOGRAPH-51B3 -->
+      <map code="0x51c6" name="uni51C6"/><!-- CJK UNIFIED IDEOGRAPH-51C6 -->
+      <map code="0x51cc" name="uni51CC"/><!-- CJK UNIFIED IDEOGRAPH-51CC -->
+      <map code="0x51e1" name="uni51E1"/><!-- CJK UNIFIED IDEOGRAPH-51E1 -->
+      <map code="0x51fa" name="uni51FA"/><!-- CJK UNIFIED IDEOGRAPH-51FA -->
+      <map code="0x51fd" name="uni51FD"/><!-- CJK UNIFIED IDEOGRAPH-51FD -->
+      <map code="0x5206" name="uni5206"/><!-- CJK UNIFIED IDEOGRAPH-5206 -->
+      <map code="0x5207" name="uni5207"/><!-- CJK UNIFIED IDEOGRAPH-5207 -->
+      <map code="0x5212" name="uni5212"/><!-- CJK UNIFIED IDEOGRAPH-5212 -->
+      <map code="0x521b" name="uni521B"/><!-- CJK UNIFIED IDEOGRAPH-521B -->
+      <map code="0x521d" name="uni521D"/><!-- CJK UNIFIED IDEOGRAPH-521D -->
+      <map code="0x5220" name="uni5220"/><!-- CJK UNIFIED IDEOGRAPH-5220 -->
+      <map code="0x522b" name="uni522B"/><!-- CJK UNIFIED IDEOGRAPH-522B -->
+      <map code="0x5230" name="uni5230"/><!-- CJK UNIFIED IDEOGRAPH-5230 -->
+      <map code="0x5236" name="uni5236"/><!-- CJK UNIFIED IDEOGRAPH-5236 -->
+      <map code="0x523b" name="uni523B"/><!-- CJK UNIFIED IDEOGRAPH-523B -->
+      <map code="0x524d" name="uni524D"/><!-- CJK UNIFIED IDEOGRAPH-524D -->
+      <map code="0x529b" name="uni529B"/><!-- CJK UNIFIED IDEOGRAPH-529B -->
+      <map code="0x529e" name="uni529E"/><!-- CJK UNIFIED IDEOGRAPH-529E -->
+      <map code="0x52a0" name="uni52A0"/><!-- CJK UNIFIED IDEOGRAPH-52A0 -->
+      <map code="0x52a1" name="uni52A1"/><!-- CJK UNIFIED IDEOGRAPH-52A1 -->
+      <map code="0x52a8" name="uni52A8"/><!-- CJK UNIFIED IDEOGRAPH-52A8 -->
+      <map code="0x52a9" name="uni52A9"/><!-- CJK UNIFIED IDEOGRAPH-52A9 -->
+      <map code="0x5316" name="uni5316"/><!-- CJK UNIFIED IDEOGRAPH-5316 -->
+      <map code="0x5317" name="uni5317"/><!-- CJK UNIFIED IDEOGRAPH-5317 -->
+      <map code="0x5347" name="uni5347"/><!-- CJK UNIFIED IDEOGRAPH-5347 -->
+      <map code="0x5348" name="uni5348"/><!-- CJK UNIFIED IDEOGRAPH-5348 -->
+      <map code="0x534a" name="uni534A"/><!-- CJK UNIFIED IDEOGRAPH-534A -->
+      <map code="0x534f" name="uni534F"/><!-- CJK UNIFIED IDEOGRAPH-534F -->
+      <map code="0x5355" name="uni5355"/><!-- CJK UNIFIED IDEOGRAPH-5355 -->
+      <map code="0x5361" name="uni5361"/><!-- CJK UNIFIED IDEOGRAPH-5361 -->
+      <map code="0x5373" name="uni5373"/><!-- CJK UNIFIED IDEOGRAPH-5373 -->
+      <map code="0x5385" name="uni5385"/><!-- CJK UNIFIED IDEOGRAPH-5385 -->
+      <map code="0x5386" name="uni5386"/><!-- CJK UNIFIED IDEOGRAPH-5386 -->
+      <map code="0x539f" name="uni539F"/><!-- CJK UNIFIED IDEOGRAPH-539F -->
+      <map code="0x53bb" name="uni53BB"/><!-- CJK UNIFIED IDEOGRAPH-53BB -->
+      <map code="0x53c2" name="uni53C2"/><!-- CJK UNIFIED IDEOGRAPH-53C2 -->
+      <map code="0x53c8" name="uni53C8"/><!-- CJK UNIFIED IDEOGRAPH-53C8 -->
+      <map code="0x53cb" name="uni53CB"/><!-- CJK UNIFIED IDEOGRAPH-53CB -->
+      <map code="0x53cc" name="uni53CC"/><!-- CJK UNIFIED IDEOGRAPH-53CC -->
+      <map code="0x53d1" name="uni53D1"/><!-- CJK UNIFIED IDEOGRAPH-53D1 -->
+      <map code="0x53d6" name="uni53D6"/><!-- CJK UNIFIED IDEOGRAPH-53D6 -->
+      <map code="0x53d7" name="uni53D7"/><!-- CJK UNIFIED IDEOGRAPH-53D7 -->
+      <map code="0x53d8" name="uni53D8"/><!-- CJK UNIFIED IDEOGRAPH-53D8 -->
+      <map code="0x53e0" name="uni53E0"/><!-- CJK UNIFIED IDEOGRAPH-53E0 -->
+      <map code="0x53e3" name="uni53E3"/><!-- CJK UNIFIED IDEOGRAPH-53E3 -->
+      <map code="0x53e5" name="uni53E5"/><!-- CJK UNIFIED IDEOGRAPH-53E5 -->
+      <map code="0x53e6" name="uni53E6"/><!-- CJK UNIFIED IDEOGRAPH-53E6 -->
+      <map code="0x53ea" name="uni53EA"/><!-- CJK UNIFIED IDEOGRAPH-53EA -->
+      <map code="0x53ef" name="uni53EF"/><!-- CJK UNIFIED IDEOGRAPH-53EF -->
+      <map code="0x53f0" name="uni53F0"/><!-- CJK UNIFIED IDEOGRAPH-53F0 -->
+      <map code="0x53f2" name="uni53F2"/><!-- CJK UNIFIED IDEOGRAPH-53F2 -->
+      <map code="0x53f3" name="uni53F3"/><!-- CJK UNIFIED IDEOGRAPH-53F3 -->
+      <map code="0x53f7" name="uni53F7"/><!-- CJK UNIFIED IDEOGRAPH-53F7 -->
+      <map code="0x5403" name="uni5403"/><!-- CJK UNIFIED IDEOGRAPH-5403 -->
+      <map code="0x5408" name="uni5408"/><!-- CJK UNIFIED IDEOGRAPH-5408 -->
+      <map code="0x540c" name="uni540C"/><!-- CJK UNIFIED IDEOGRAPH-540C -->
+      <map code="0x540d" name="uni540D"/><!-- CJK UNIFIED IDEOGRAPH-540D -->
+      <map code="0x540e" name="uni540E"/><!-- CJK UNIFIED IDEOGRAPH-540E -->
+      <map code="0x5417" name="uni5417"/><!-- CJK UNIFIED IDEOGRAPH-5417 -->
+      <map code="0x5427" name="uni5427"/><!-- CJK UNIFIED IDEOGRAPH-5427 -->
+      <map code="0x542c" name="uni542C"/><!-- CJK UNIFIED IDEOGRAPH-542C -->
+      <map code="0x542f" name="uni542F"/><!-- CJK UNIFIED IDEOGRAPH-542F -->
+      <map code="0x5439" name="uni5439"/><!-- CJK UNIFIED IDEOGRAPH-5439 -->
+      <map code="0x5440" name="uni5440"/><!-- CJK UNIFIED IDEOGRAPH-5440 -->
+      <map code="0x544a" name="uni544A"/><!-- CJK UNIFIED IDEOGRAPH-544A -->
+      <map code="0x5468" name="uni5468"/><!-- CJK UNIFIED IDEOGRAPH-5468 -->
+      <map code="0x547c" name="uni547C"/><!-- CJK UNIFIED IDEOGRAPH-547C -->
+      <map code="0x548c" name="uni548C"/><!-- CJK UNIFIED IDEOGRAPH-548C -->
+      <map code="0x54ea" name="uni54EA"/><!-- CJK UNIFIED IDEOGRAPH-54EA -->
+      <map code="0x5531" name="uni5531"/><!-- CJK UNIFIED IDEOGRAPH-5531 -->
+      <map code="0x5546" name="uni5546"/><!-- CJK UNIFIED IDEOGRAPH-5546 -->
+      <map code="0x5566" name="uni5566"/><!-- CJK UNIFIED IDEOGRAPH-5566 -->
+      <map code="0x559c" name="uni559C"/><!-- CJK UNIFIED IDEOGRAPH-559C -->
+      <map code="0x56db" name="uni56DB"/><!-- CJK UNIFIED IDEOGRAPH-56DB -->
+      <map code="0x56de" name="uni56DE"/><!-- CJK UNIFIED IDEOGRAPH-56DE -->
+      <map code="0x56e0" name="uni56E0"/><!-- CJK UNIFIED IDEOGRAPH-56E0 -->
+      <map code="0x56ed" name="uni56ED"/><!-- CJK UNIFIED IDEOGRAPH-56ED -->
+      <map code="0x56fe" name="uni56FE"/><!-- CJK UNIFIED IDEOGRAPH-56FE -->
+      <map code="0x5728" name="uni5728"/><!-- CJK UNIFIED IDEOGRAPH-5728 -->
+      <map code="0x5730" name="uni5730"/><!-- CJK UNIFIED IDEOGRAPH-5730 -->
+      <map code="0x573a" name="uni573A"/><!-- CJK UNIFIED IDEOGRAPH-573A -->
+      <map code="0x578b" name="uni578B"/><!-- CJK UNIFIED IDEOGRAPH-578B -->
+      <map code="0x57ce" name="uni57CE"/><!-- CJK UNIFIED IDEOGRAPH-57CE -->
+      <map code="0x586b" name="uni586B"/><!-- CJK UNIFIED IDEOGRAPH-586B -->
+      <map code="0x5883" name="uni5883"/><!-- CJK UNIFIED IDEOGRAPH-5883 -->
+      <map code="0x5904" name="uni5904"/><!-- CJK UNIFIED IDEOGRAPH-5904 -->
+      <map code="0x5907" name="uni5907"/><!-- CJK UNIFIED IDEOGRAPH-5907 -->
+      <map code="0x590d" name="uni590D"/><!-- CJK UNIFIED IDEOGRAPH-590D -->
+      <map code="0x5916" name="uni5916"/><!-- CJK UNIFIED IDEOGRAPH-5916 -->
+      <map code="0x591a" name="uni591A"/><!-- CJK UNIFIED IDEOGRAPH-591A -->
+      <map code="0x591c" name="uni591C"/><!-- CJK UNIFIED IDEOGRAPH-591C -->
+      <map code="0x591f" name="uni591F"/><!-- CJK UNIFIED IDEOGRAPH-591F -->
+      <map code="0x5927" name="uni5927"/><!-- CJK UNIFIED IDEOGRAPH-5927 -->
+      <map code="0x5929" name="uni5929"/><!-- CJK UNIFIED IDEOGRAPH-5929 -->
+      <map code="0x592a" name="uni592A"/><!-- CJK UNIFIED IDEOGRAPH-592A -->
+      <map code="0x5931" name="uni5931"/><!-- CJK UNIFIED IDEOGRAPH-5931 -->
+      <map code="0x5934" name="uni5934"/><!-- CJK UNIFIED IDEOGRAPH-5934 -->
+      <map code="0x597d" name="uni597D"/><!-- CJK UNIFIED IDEOGRAPH-597D -->
+      <map code="0x5982" name="uni5982"/><!-- CJK UNIFIED IDEOGRAPH-5982 -->
+      <map code="0x59cb" name="uni59CB"/><!-- CJK UNIFIED IDEOGRAPH-59CB -->
+      <map code="0x5a31" name="uni5A31"/><!-- CJK UNIFIED IDEOGRAPH-5A31 -->
+      <map code="0x5b50" name="uni5B50"/><!-- CJK UNIFIED IDEOGRAPH-5B50 -->
+      <map code="0x5b57" name="uni5B57"/><!-- CJK UNIFIED IDEOGRAPH-5B57 -->
+      <map code="0x5b58" name="uni5B58"/><!-- CJK UNIFIED IDEOGRAPH-5B58 -->
+      <map code="0x5b66" name="uni5B66"/><!-- CJK UNIFIED IDEOGRAPH-5B66 -->
+      <map code="0x5b87" name="uni5B87"/><!-- CJK UNIFIED IDEOGRAPH-5B87 -->
+      <map code="0x5b89" name="uni5B89"/><!-- CJK UNIFIED IDEOGRAPH-5B89 -->
+      <map code="0x5b8c" name="uni5B8C"/><!-- CJK UNIFIED IDEOGRAPH-5B8C -->
+      <map code="0x5b9a" name="uni5B9A"/><!-- CJK UNIFIED IDEOGRAPH-5B9A -->
+      <map code="0x5b9e" name="uni5B9E"/><!-- CJK UNIFIED IDEOGRAPH-5B9E -->
+      <map code="0x5ba0" name="uni5BA0"/><!-- CJK UNIFIED IDEOGRAPH-5BA0 -->
+      <map code="0x5ba1" name="uni5BA1"/><!-- CJK UNIFIED IDEOGRAPH-5BA1 -->
+      <map code="0x5bb6" name="uni5BB6"/><!-- CJK UNIFIED IDEOGRAPH-5BB6 -->
+      <map code="0x5bb9" name="uni5BB9"/><!-- CJK UNIFIED IDEOGRAPH-5BB9 -->
+      <map code="0x5bc4" name="uni5BC4"/><!-- CJK UNIFIED IDEOGRAPH-5BC4 -->
+      <map code="0x5bf9" name="uni5BF9"/><!-- CJK UNIFIED IDEOGRAPH-5BF9 -->
+      <map code="0x5bfc" name="uni5BFC"/><!-- CJK UNIFIED IDEOGRAPH-5BFC -->
+      <map code="0x5c01" name="uni5C01"/><!-- CJK UNIFIED IDEOGRAPH-5C01 -->
+      <map code="0x5c04" name="uni5C04"/><!-- CJK UNIFIED IDEOGRAPH-5C04 -->
+      <map code="0x5c06" name="uni5C06"/><!-- CJK UNIFIED IDEOGRAPH-5C06 -->
+      <map code="0x5c0f" name="uni5C0F"/><!-- CJK UNIFIED IDEOGRAPH-5C0F -->
+      <map code="0x5c11" name="uni5C11"/><!-- CJK UNIFIED IDEOGRAPH-5C11 -->
+      <map code="0x5c1a" name="uni5C1A"/><!-- CJK UNIFIED IDEOGRAPH-5C1A -->
+      <map code="0x5c31" name="uni5C31"/><!-- CJK UNIFIED IDEOGRAPH-5C31 -->
+      <map code="0x5c55" name="uni5C55"/><!-- CJK UNIFIED IDEOGRAPH-5C55 -->
+      <map code="0x5c5e" name="uni5C5E"/><!-- CJK UNIFIED IDEOGRAPH-5C5E -->
+      <map code="0x5c9b" name="uni5C9B"/><!-- CJK UNIFIED IDEOGRAPH-5C9B -->
+      <map code="0x5dde" name="uni5DDE"/><!-- CJK UNIFIED IDEOGRAPH-5DDE -->
+      <map code="0x5de5" name="uni5DE5"/><!-- CJK UNIFIED IDEOGRAPH-5DE5 -->
+      <map code="0x5de6" name="uni5DE6"/><!-- CJK UNIFIED IDEOGRAPH-5DE6 -->
+      <map code="0x5dee" name="uni5DEE"/><!-- CJK UNIFIED IDEOGRAPH-5DEE -->
+      <map code="0x5df1" name="uni5DF1"/><!-- CJK UNIFIED IDEOGRAPH-5DF1 -->
+      <map code="0x5df2" name="uni5DF2"/><!-- CJK UNIFIED IDEOGRAPH-5DF2 -->
+      <map code="0x5e02" name="uni5E02"/><!-- CJK UNIFIED IDEOGRAPH-5E02 -->
+      <map code="0x5e03" name="uni5E03"/><!-- CJK UNIFIED IDEOGRAPH-5E03 -->
+      <map code="0x5e0c" name="uni5E0C"/><!-- CJK UNIFIED IDEOGRAPH-5E0C -->
+      <map code="0x5e26" name="uni5E26"/><!-- CJK UNIFIED IDEOGRAPH-5E26 -->
+      <map code="0x5e2e" name="uni5E2E"/><!-- CJK UNIFIED IDEOGRAPH-5E2E -->
+      <map code="0x5e38" name="uni5E38"/><!-- CJK UNIFIED IDEOGRAPH-5E38 -->
+      <map code="0x5e73" name="uni5E73"/><!-- CJK UNIFIED IDEOGRAPH-5E73 -->
+      <map code="0x5e74" name="uni5E74"/><!-- CJK UNIFIED IDEOGRAPH-5E74 -->
+      <map code="0x5e76" name="uni5E76"/><!-- CJK UNIFIED IDEOGRAPH-5E76 -->
+      <map code="0x5e78" name="uni5E78"/><!-- CJK UNIFIED IDEOGRAPH-5E78 -->
+      <map code="0x5e94" name="uni5E94"/><!-- CJK UNIFIED IDEOGRAPH-5E94 -->
+      <map code="0x5ea6" name="uni5EA6"/><!-- CJK UNIFIED IDEOGRAPH-5EA6 -->
+      <map code="0x5ea7" name="uni5EA7"/><!-- CJK UNIFIED IDEOGRAPH-5EA7 -->
+      <map code="0x5eb7" name="uni5EB7"/><!-- CJK UNIFIED IDEOGRAPH-5EB7 -->
+      <map code="0x5efa" name="uni5EFA"/><!-- CJK UNIFIED IDEOGRAPH-5EFA -->
+      <map code="0x5f00" name="uni5F00"/><!-- CJK UNIFIED IDEOGRAPH-5F00 -->
+      <map code="0x5f02" name="uni5F02"/><!-- CJK UNIFIED IDEOGRAPH-5F02 -->
+      <map code="0x5f0f" name="uni5F0F"/><!-- CJK UNIFIED IDEOGRAPH-5F0F -->
+      <map code="0x5f20" name="uni5F20"/><!-- CJK UNIFIED IDEOGRAPH-5F20 -->
+      <map code="0x5f2f" name="uni5F2F"/><!-- CJK UNIFIED IDEOGRAPH-5F2F -->
+      <map code="0x5f52" name="uni5F52"/><!-- CJK UNIFIED IDEOGRAPH-5F52 -->
+      <map code="0x5f53" name="uni5F53"/><!-- CJK UNIFIED IDEOGRAPH-5F53 -->
+      <map code="0x5f55" name="uni5F55"/><!-- CJK UNIFIED IDEOGRAPH-5F55 -->
+      <map code="0x5f71" name="uni5F71"/><!-- CJK UNIFIED IDEOGRAPH-5F71 -->
+      <map code="0x5f7c" name="uni5F7C"/><!-- CJK UNIFIED IDEOGRAPH-5F7C -->
+      <map code="0x5f80" name="uni5F80"/><!-- CJK UNIFIED IDEOGRAPH-5F80 -->
+      <map code="0x5f85" name="uni5F85"/><!-- CJK UNIFIED IDEOGRAPH-5F85 -->
+      <map code="0x5f88" name="uni5F88"/><!-- CJK UNIFIED IDEOGRAPH-5F88 -->
+      <map code="0x5f8b" name="uni5F8B"/><!-- CJK UNIFIED IDEOGRAPH-5F8B -->
+      <map code="0x5f97" name="uni5F97"/><!-- CJK UNIFIED IDEOGRAPH-5F97 -->
+      <map code="0x5fae" name="uni5FAE"/><!-- CJK UNIFIED IDEOGRAPH-5FAE -->
+      <map code="0x5fc3" name="uni5FC3"/><!-- CJK UNIFIED IDEOGRAPH-5FC3 -->
+      <map code="0x5fc5" name="uni5FC5"/><!-- CJK UNIFIED IDEOGRAPH-5FC5 -->
+      <map code="0x5fc6" name="uni5FC6"/><!-- CJK UNIFIED IDEOGRAPH-5FC6 -->
+      <map code="0x5feb" name="uni5FEB"/><!-- CJK UNIFIED IDEOGRAPH-5FEB -->
+      <map code="0x5ff5" name="uni5FF5"/><!-- CJK UNIFIED IDEOGRAPH-5FF5 -->
+      <map code="0x6062" name="uni6062"/><!-- CJK UNIFIED IDEOGRAPH-6062 -->
+      <map code="0x606f" name="uni606F"/><!-- CJK UNIFIED IDEOGRAPH-606F -->
+      <map code="0x6084" name="uni6084"/><!-- CJK UNIFIED IDEOGRAPH-6084 -->
+      <map code="0x60c5" name="uni60C5"/><!-- CJK UNIFIED IDEOGRAPH-60C5 -->
+      <map code="0x60ca" name="uni60CA"/><!-- CJK UNIFIED IDEOGRAPH-60CA -->
+      <map code="0x60f3" name="uni60F3"/><!-- CJK UNIFIED IDEOGRAPH-60F3 -->
+      <map code="0x610f" name="uni610F"/><!-- CJK UNIFIED IDEOGRAPH-610F -->
+      <map code="0x611f" name="uni611F"/><!-- CJK UNIFIED IDEOGRAPH-611F -->
+      <map code="0x613f" name="uni613F"/><!-- CJK UNIFIED IDEOGRAPH-613F -->
+      <map code="0x6162" name="uni6162"/><!-- CJK UNIFIED IDEOGRAPH-6162 -->
+      <map code="0x6210" name="uni6210"/><!-- CJK UNIFIED IDEOGRAPH-6210 -->
+      <map code="0x6211" name="uni6211"/><!-- CJK UNIFIED IDEOGRAPH-6211 -->
+      <map code="0x6216" name="uni6216"/><!-- CJK UNIFIED IDEOGRAPH-6216 -->
+      <map code="0x622a" name="uni622A"/><!-- CJK UNIFIED IDEOGRAPH-622A -->
+      <map code="0x6237" name="uni6237"/><!-- CJK UNIFIED IDEOGRAPH-6237 -->
+      <map code="0x6240" name="uni6240"/><!-- CJK UNIFIED IDEOGRAPH-6240 -->
+      <map code="0x624d" name="uni624D"/><!-- CJK UNIFIED IDEOGRAPH-624D -->
+      <map code="0x6253" name="uni6253"/><!-- CJK UNIFIED IDEOGRAPH-6253 -->
+      <map code="0x6279" name="uni6279"/><!-- CJK UNIFIED IDEOGRAPH-6279 -->
+      <map code="0x627e" name="uni627E"/><!-- CJK UNIFIED IDEOGRAPH-627E -->
+      <map code="0x627f" name="uni627F"/><!-- CJK UNIFIED IDEOGRAPH-627F -->
+      <map code="0x628a" name="uni628A"/><!-- CJK UNIFIED IDEOGRAPH-628A -->
+      <map code="0x6298" name="uni6298"/><!-- CJK UNIFIED IDEOGRAPH-6298 -->
+      <map code="0x62a5" name="uni62A5"/><!-- CJK UNIFIED IDEOGRAPH-62A5 -->
+      <map code="0x62cd" name="uni62CD"/><!-- CJK UNIFIED IDEOGRAPH-62CD -->
+      <map code="0x62d2" name="uni62D2"/><!-- CJK UNIFIED IDEOGRAPH-62D2 -->
+      <map code="0x62e9" name="uni62E9"/><!-- CJK UNIFIED IDEOGRAPH-62E9 -->
+      <map code="0x6301" name="uni6301"/><!-- CJK UNIFIED IDEOGRAPH-6301 -->
+      <map code="0x6309" name="uni6309"/><!-- CJK UNIFIED IDEOGRAPH-6309 -->
+      <map code="0x6362" name="uni6362"/><!-- CJK UNIFIED IDEOGRAPH-6362 -->
+      <map code="0x636e" name="uni636E"/><!-- CJK UNIFIED IDEOGRAPH-636E -->
+      <map code="0x6392" name="uni6392"/><!-- CJK UNIFIED IDEOGRAPH-6392 -->
+      <map code="0x63a5" name="uni63A5"/><!-- CJK UNIFIED IDEOGRAPH-63A5 -->
+      <map code="0x63cf" name="uni63CF"/><!-- CJK UNIFIED IDEOGRAPH-63CF -->
+      <map code="0x63d0" name="uni63D0"/><!-- CJK UNIFIED IDEOGRAPH-63D0 -->
+      <map code="0x641c" name="uni641C"/><!-- CJK UNIFIED IDEOGRAPH-641C -->
+      <map code="0x64a4" name="uni64A4"/><!-- CJK UNIFIED IDEOGRAPH-64A4 -->
+      <map code="0x64cd" name="uni64CD"/><!-- CJK UNIFIED IDEOGRAPH-64CD -->
+      <map code="0x652f" name="uni652F"/><!-- CJK UNIFIED IDEOGRAPH-652F -->
+      <map code="0x6536" name="uni6536"/><!-- CJK UNIFIED IDEOGRAPH-6536 -->
+      <map code="0x6539" name="uni6539"/><!-- CJK UNIFIED IDEOGRAPH-6539 -->
+      <map code="0x653e" name="uni653E"/><!-- CJK UNIFIED IDEOGRAPH-653E -->
+      <map code="0x6545" name="uni6545"/><!-- CJK UNIFIED IDEOGRAPH-6545 -->
+      <map code="0x6548" name="uni6548"/><!-- CJK UNIFIED IDEOGRAPH-6548 -->
+      <map code="0x6563" name="uni6563"/><!-- CJK UNIFIED IDEOGRAPH-6563 -->
+      <map code="0x6570" name="uni6570"/><!-- CJK UNIFIED IDEOGRAPH-6570 -->
+      <map code="0x6574" name="uni6574"/><!-- CJK UNIFIED IDEOGRAPH-6574 -->
+      <map code="0x6587" name="uni6587"/><!-- CJK UNIFIED IDEOGRAPH-6587 -->
+      <map code="0x6599" name="uni6599"/><!-- CJK UNIFIED IDEOGRAPH-6599 -->
+      <map code="0x65b0" name="uni65B0"/><!-- CJK UNIFIED IDEOGRAPH-65B0 -->
+      <map code="0x65b9" name="uni65B9"/><!-- CJK UNIFIED IDEOGRAPH-65B9 -->
+      <map code="0x65c5" name="uni65C5"/><!-- CJK UNIFIED IDEOGRAPH-65C5 -->
+      <map code="0x65e0" name="uni65E0"/><!-- CJK UNIFIED IDEOGRAPH-65E0 -->
+      <map code="0x65e5" name="uni65E5"/><!-- CJK UNIFIED IDEOGRAPH-65E5 -->
+      <map code="0x65e7" name="uni65E7"/><!-- CJK UNIFIED IDEOGRAPH-65E7 -->
+      <map code="0x65e9" name="uni65E9"/><!-- CJK UNIFIED IDEOGRAPH-65E9 -->
+      <map code="0x65f6" name="uni65F6"/><!-- CJK UNIFIED IDEOGRAPH-65F6 -->
+      <map code="0x660e" name="uni660E"/><!-- CJK UNIFIED IDEOGRAPH-660E -->
+      <map code="0x661f" name="uni661F"/><!-- CJK UNIFIED IDEOGRAPH-661F -->
+      <map code="0x6620" name="uni6620"/><!-- CJK UNIFIED IDEOGRAPH-6620 -->
+      <map code="0x6625" name="uni6625"/><!-- CJK UNIFIED IDEOGRAPH-6625 -->
+      <map code="0x6628" name="uni6628"/><!-- CJK UNIFIED IDEOGRAPH-6628 -->
+      <map code="0x662f" name="uni662F"/><!-- CJK UNIFIED IDEOGRAPH-662F -->
+      <map code="0x6635" name="uni6635"/><!-- CJK UNIFIED IDEOGRAPH-6635 -->
+      <map code="0x663e" name="uni663E"/><!-- CJK UNIFIED IDEOGRAPH-663E -->
+      <map code="0x6652" name="uni6652"/><!-- CJK UNIFIED IDEOGRAPH-6652 -->
+      <map code="0x665a" name="uni665A"/><!-- CJK UNIFIED IDEOGRAPH-665A -->
+      <map code="0x6668" name="uni6668"/><!-- CJK UNIFIED IDEOGRAPH-6668 -->
+      <map code="0x666e" name="uni666E"/><!-- CJK UNIFIED IDEOGRAPH-666E -->
+      <map code="0x666f" name="uni666F"/><!-- CJK UNIFIED IDEOGRAPH-666F -->
+      <map code="0x6674" name="uni6674"/><!-- CJK UNIFIED IDEOGRAPH-6674 -->
+      <map code="0x6682" name="uni6682"/><!-- CJK UNIFIED IDEOGRAPH-6682 -->
+      <map code="0x6696" name="uni6696"/><!-- CJK UNIFIED IDEOGRAPH-6696 -->
+      <map code="0x66f4" name="uni66F4"/><!-- CJK UNIFIED IDEOGRAPH-66F4 -->
+      <map code="0x6700" name="uni6700"/><!-- CJK UNIFIED IDEOGRAPH-6700 -->
+      <map code="0x6708" name="uni6708"/><!-- CJK UNIFIED IDEOGRAPH-6708 -->
+      <map code="0x6709" name="uni6709"/><!-- CJK UNIFIED IDEOGRAPH-6709 -->
+      <map code="0x670b" name="uni670B"/><!-- CJK UNIFIED IDEOGRAPH-670B -->
+      <map code="0x670d" name="uni670D"/><!-- CJK UNIFIED IDEOGRAPH-670D -->
+      <map code="0x671b" name="uni671B"/><!-- CJK UNIFIED IDEOGRAPH-671B -->
+      <map code="0x671f" name="uni671F"/><!-- CJK UNIFIED IDEOGRAPH-671F -->
+      <map code="0x672a" name="uni672A"/><!-- CJK UNIFIED IDEOGRAPH-672A -->
+      <map code="0x672b" name="uni672B"/><!-- CJK UNIFIED IDEOGRAPH-672B -->
+      <map code="0x672c" name="uni672C"/><!-- CJK UNIFIED IDEOGRAPH-672C -->
+      <map code="0x673a" name="uni673A"/><!-- CJK UNIFIED IDEOGRAPH-673A -->
+      <map code="0x6743" name="uni6743"/><!-- CJK UNIFIED IDEOGRAPH-6743 -->
+      <map code="0x6750" name="uni6750"/><!-- CJK UNIFIED IDEOGRAPH-6750 -->
+      <map code="0x675f" name="uni675F"/><!-- CJK UNIFIED IDEOGRAPH-675F -->
+      <map code="0x6761" name="uni6761"/><!-- CJK UNIFIED IDEOGRAPH-6761 -->
+      <map code="0x6765" name="uni6765"/><!-- CJK UNIFIED IDEOGRAPH-6765 -->
+      <map code="0x676d" name="uni676D"/><!-- CJK UNIFIED IDEOGRAPH-676D -->
+      <map code="0x6781" name="uni6781"/><!-- CJK UNIFIED IDEOGRAPH-6781 -->
+      <map code="0x679a" name="uni679A"/><!-- CJK UNIFIED IDEOGRAPH-679A -->
+      <map code="0x67d4" name="uni67D4"/><!-- CJK UNIFIED IDEOGRAPH-67D4 -->
+      <map code="0x67dc" name="uni67DC"/><!-- CJK UNIFIED IDEOGRAPH-67DC -->
+      <map code="0x67e5" name="uni67E5"/><!-- CJK UNIFIED IDEOGRAPH-67E5 -->
+      <map code="0x6807" name="uni6807"/><!-- CJK UNIFIED IDEOGRAPH-6807 -->
+      <map code="0x6837" name="uni6837"/><!-- CJK UNIFIED IDEOGRAPH-6837 -->
+      <map code="0x6838" name="uni6838"/><!-- CJK UNIFIED IDEOGRAPH-6838 -->
+      <map code="0x683c" name="uni683C"/><!-- CJK UNIFIED IDEOGRAPH-683C -->
+      <map code="0x6846" name="uni6846"/><!-- CJK UNIFIED IDEOGRAPH-6846 -->
+      <map code="0x6848" name="uni6848"/><!-- CJK UNIFIED IDEOGRAPH-6848 -->
+      <map code="0x6863" name="uni6863"/><!-- CJK UNIFIED IDEOGRAPH-6863 -->
+      <map code="0x68c0" name="uni68C0"/><!-- CJK UNIFIED IDEOGRAPH-68C0 -->
+      <map code="0x6a21" name="uni6A21"/><!-- CJK UNIFIED IDEOGRAPH-6A21 -->
+      <map code="0x6a31" name="uni6A31"/><!-- CJK UNIFIED IDEOGRAPH-6A31 -->
+      <map code="0x6b21" name="uni6B21"/><!-- CJK UNIFIED IDEOGRAPH-6B21 -->
+      <map code="0x6b22" name="uni6B22"/><!-- CJK UNIFIED IDEOGRAPH-6B22 -->
+      <map code="0x6b4c" name="uni6B4C"/><!-- CJK UNIFIED IDEOGRAPH-6B4C -->
+      <map code="0x6b62" name="uni6B62"/><!-- CJK UNIFIED IDEOGRAPH-6B62 -->
+      <map code="0x6b63" name="uni6B63"/><!-- CJK UNIFIED IDEOGRAPH-6B63 -->
+      <map code="0x6b64" name="uni6B64"/><!-- CJK UNIFIED IDEOGRAPH-6B64 -->
+      <map code="0x6b65" name="uni6B65"/><!-- CJK UNIFIED IDEOGRAPH-6B65 -->
+      <map code="0x6bb5" name="uni6BB5"/><!-- CJK UNIFIED IDEOGRAPH-6BB5 -->
+      <map code="0x6bcf" name="uni6BCF"/><!-- CJK UNIFIED IDEOGRAPH-6BCF -->
+      <map code="0x6bd4" name="uni6BD4"/><!-- CJK UNIFIED IDEOGRAPH-6BD4 -->
+      <map code="0x6c14" name="uni6C14"/><!-- CJK UNIFIED IDEOGRAPH-6C14 -->
+      <map code="0x6c99" name="uni6C99"/><!-- CJK UNIFIED IDEOGRAPH-6C99 -->
+      <map code="0x6c9f" name="uni6C9F"/><!-- CJK UNIFIED IDEOGRAPH-6C9F -->
+      <map code="0x6ca1" name="uni6CA1"/><!-- CJK UNIFIED IDEOGRAPH-6CA1 -->
+      <map code="0x6cd5" name="uni6CD5"/><!-- CJK UNIFIED IDEOGRAPH-6CD5 -->
+      <map code="0x6ce8" name="uni6CE8"/><!-- CJK UNIFIED IDEOGRAPH-6CE8 -->
+      <map code="0x6d3b" name="uni6D3B"/><!-- CJK UNIFIED IDEOGRAPH-6D3B -->
+      <map code="0x6d41" name="uni6D41"/><!-- CJK UNIFIED IDEOGRAPH-6D41 -->
+      <map code="0x6d6a" name="uni6D6A"/><!-- CJK UNIFIED IDEOGRAPH-6D6A -->
+      <map code="0x6d77" name="uni6D77"/><!-- CJK UNIFIED IDEOGRAPH-6D77 -->
+      <map code="0x6d88" name="uni6D88"/><!-- CJK UNIFIED IDEOGRAPH-6D88 -->
+      <map code="0x6dfb" name="uni6DFB"/><!-- CJK UNIFIED IDEOGRAPH-6DFB -->
+      <map code="0x6e05" name="uni6E05"/><!-- CJK UNIFIED IDEOGRAPH-6E05 -->
+      <map code="0x6e29" name="uni6E29"/><!-- CJK UNIFIED IDEOGRAPH-6E29 -->
+      <map code="0x6e38" name="uni6E38"/><!-- CJK UNIFIED IDEOGRAPH-6E38 -->
+      <map code="0x6e56" name="uni6E56"/><!-- CJK UNIFIED IDEOGRAPH-6E56 -->
+      <map code="0x6e7e" name="uni6E7E"/><!-- CJK UNIFIED IDEOGRAPH-6E7E -->
+      <map code="0x6ed1" name="uni6ED1"/><!-- CJK UNIFIED IDEOGRAPH-6ED1 -->
+      <map code="0x6ee1" name="uni6EE1"/><!-- CJK UNIFIED IDEOGRAPH-6EE1 -->
+      <map code="0x6f14" name="uni6F14"/><!-- CJK UNIFIED IDEOGRAPH-6F14 -->
+      <map code="0x6f2b" name="uni6F2B"/><!-- CJK UNIFIED IDEOGRAPH-6F2B -->
+      <map code="0x706b" name="uni706B"/><!-- CJK UNIFIED IDEOGRAPH-706B -->
+      <map code="0x70b9" name="uni70B9"/><!-- CJK UNIFIED IDEOGRAPH-70B9 -->
+      <map code="0x7167" name="uni7167"/><!-- CJK UNIFIED IDEOGRAPH-7167 -->
+      <map code="0x7231" name="uni7231"/><!-- CJK UNIFIED IDEOGRAPH-7231 -->
+      <map code="0x7247" name="uni7247"/><!-- CJK UNIFIED IDEOGRAPH-7247 -->
+      <map code="0x7248" name="uni7248"/><!-- CJK UNIFIED IDEOGRAPH-7248 -->
+      <map code="0x724c" name="uni724C"/><!-- CJK UNIFIED IDEOGRAPH-724C -->
+      <map code="0x7269" name="uni7269"/><!-- CJK UNIFIED IDEOGRAPH-7269 -->
+      <map code="0x7279" name="uni7279"/><!-- CJK UNIFIED IDEOGRAPH-7279 -->
+      <map code="0x72ec" name="uni72EC"/><!-- CJK UNIFIED IDEOGRAPH-72EC -->
+      <map code="0x732b" name="uni732B"/><!-- CJK UNIFIED IDEOGRAPH-732B -->
+      <map code="0x73af" name="uni73AF"/><!-- CJK UNIFIED IDEOGRAPH-73AF -->
+      <map code="0x73b0" name="uni73B0"/><!-- CJK UNIFIED IDEOGRAPH-73B0 -->
+      <map code="0x73ed" name="uni73ED"/><!-- CJK UNIFIED IDEOGRAPH-73ED -->
+      <map code="0x7406" name="uni7406"/><!-- CJK UNIFIED IDEOGRAPH-7406 -->
+      <map code="0x7410" name="uni7410"/><!-- CJK UNIFIED IDEOGRAPH-7410 -->
+      <map code="0x745c" name="uni745C"/><!-- CJK UNIFIED IDEOGRAPH-745C -->
+      <map code="0x751f" name="uni751F"/><!-- CJK UNIFIED IDEOGRAPH-751F -->
+      <map code="0x7528" name="uni7528"/><!-- CJK UNIFIED IDEOGRAPH-7528 -->
+      <map code="0x7531" name="uni7531"/><!-- CJK UNIFIED IDEOGRAPH-7531 -->
+      <map code="0x7533" name="uni7533"/><!-- CJK UNIFIED IDEOGRAPH-7533 -->
+      <map code="0x7535" name="uni7535"/><!-- CJK UNIFIED IDEOGRAPH-7535 -->
+      <map code="0x753b" name="uni753B"/><!-- CJK UNIFIED IDEOGRAPH-753B -->
+      <map code="0x7554" name="uni7554"/><!-- CJK UNIFIED IDEOGRAPH-7554 -->
+      <map code="0x7559" name="uni7559"/><!-- CJK UNIFIED IDEOGRAPH-7559 -->
+      <map code="0x767b" name="uni767B"/><!-- CJK UNIFIED IDEOGRAPH-767B -->
+      <map code="0x767d" name="uni767D"/><!-- CJK UNIFIED IDEOGRAPH-767D -->
+      <map code="0x7684" name="uni7684"/><!-- CJK UNIFIED IDEOGRAPH-7684 -->
+      <map code="0x76ee" name="uni76EE"/><!-- CJK UNIFIED IDEOGRAPH-76EE -->
+      <map code="0x76f4" name="uni76F4"/><!-- CJK UNIFIED IDEOGRAPH-76F4 -->
+      <map code="0x76f8" name="uni76F8"/><!-- CJK UNIFIED IDEOGRAPH-76F8 -->
+      <map code="0x770b" name="uni770B"/><!-- CJK UNIFIED IDEOGRAPH-770B -->
+      <map code="0x771f" name="uni771F"/><!-- CJK UNIFIED IDEOGRAPH-771F -->
+      <map code="0x77e5" name="uni77E5"/><!-- CJK UNIFIED IDEOGRAPH-77E5 -->
+      <map code="0x77ed" name="uni77ED"/><!-- CJK UNIFIED IDEOGRAPH-77ED -->
+      <map code="0x7801" name="uni7801"/><!-- CJK UNIFIED IDEOGRAPH-7801 -->
+      <map code="0x786e" name="uni786E"/><!-- CJK UNIFIED IDEOGRAPH-786E -->
+      <map code="0x788e" name="uni788E"/><!-- CJK UNIFIED IDEOGRAPH-788E -->
+      <map code="0x78b0" name="uni78B0"/><!-- CJK UNIFIED IDEOGRAPH-78B0 -->
+      <map code="0x793a" name="uni793A"/><!-- CJK UNIFIED IDEOGRAPH-793A -->
+      <map code="0x793c" name="uni793C"/><!-- CJK UNIFIED IDEOGRAPH-793C -->
+      <map code="0x798f" name="uni798F"/><!-- CJK UNIFIED IDEOGRAPH-798F -->
+      <map code="0x79cd" name="uni79CD"/><!-- CJK UNIFIED IDEOGRAPH-79CD -->
+      <map code="0x79d2" name="uni79D2"/><!-- CJK UNIFIED IDEOGRAPH-79D2 -->
+      <map code="0x79f0" name="uni79F0"/><!-- CJK UNIFIED IDEOGRAPH-79F0 -->
+      <map code="0x79fb" name="uni79FB"/><!-- CJK UNIFIED IDEOGRAPH-79FB -->
+      <map code="0x7a0b" name="uni7A0B"/><!-- CJK UNIFIED IDEOGRAPH-7A0B -->
+      <map code="0x7a0d" name="uni7A0D"/><!-- CJK UNIFIED IDEOGRAPH-7A0D -->
+      <map code="0x7a3f" name="uni7A3F"/><!-- CJK UNIFIED IDEOGRAPH-7A3F -->
+      <map code="0x7a7a" name="uni7A7A"/><!-- CJK UNIFIED IDEOGRAPH-7A7A -->
+      <map code="0x7a97" name="uni7A97"/><!-- CJK UNIFIED IDEOGRAPH-7A97 -->
+      <map code="0x7a9d" name="uni7A9D"/><!-- CJK UNIFIED IDEOGRAPH-7A9D -->
+      <map code="0x7acb" name="uni7ACB"/><!-- CJK UNIFIED IDEOGRAPH-7ACB -->
+      <map code="0x7ad9" name="uni7AD9"/><!-- CJK UNIFIED IDEOGRAPH-7AD9 -->
+      <map code="0x7aef" name="uni7AEF"/><!-- CJK UNIFIED IDEOGRAPH-7AEF -->
+      <map code="0x7b2c" name="uni7B2C"/><!-- CJK UNIFIED IDEOGRAPH-7B2C -->
+      <map code="0x7b49" name="uni7B49"/><!-- CJK UNIFIED IDEOGRAPH-7B49 -->
+      <map code="0x7b97" name="uni7B97"/><!-- CJK UNIFIED IDEOGRAPH-7B97 -->
+      <map code="0x7ba1" name="uni7BA1"/><!-- CJK UNIFIED IDEOGRAPH-7BA1 -->
+      <map code="0x7c7b" name="uni7C7B"/><!-- CJK UNIFIED IDEOGRAPH-7C7B -->
+      <map code="0x7cfb" name="uni7CFB"/><!-- CJK UNIFIED IDEOGRAPH-7CFB -->
+      <map code="0x7d20" name="uni7D20"/><!-- CJK UNIFIED IDEOGRAPH-7D20 -->
+      <map code="0x7d22" name="uni7D22"/><!-- CJK UNIFIED IDEOGRAPH-7D22 -->
+      <map code="0x7ea6" name="uni7EA6"/><!-- CJK UNIFIED IDEOGRAPH-7EA6 -->
+      <map code="0x7ea7" name="uni7EA7"/><!-- CJK UNIFIED IDEOGRAPH-7EA7 -->
+      <map code="0x7eaa" name="uni7EAA"/><!-- CJK UNIFIED IDEOGRAPH-7EAA -->
+      <map code="0x7ecf" name="uni7ECF"/><!-- CJK UNIFIED IDEOGRAPH-7ECF -->
+      <map code="0x7ed1" name="uni7ED1"/><!-- CJK UNIFIED IDEOGRAPH-7ED1 -->
+      <map code="0x7ed3" name="uni7ED3"/><!-- CJK UNIFIED IDEOGRAPH-7ED3 -->
+      <map code="0x7ed9" name="uni7ED9"/><!-- CJK UNIFIED IDEOGRAPH-7ED9 -->
+      <map code="0x7edc" name="uni7EDC"/><!-- CJK UNIFIED IDEOGRAPH-7EDC -->
+      <map code="0x7edd" name="uni7EDD"/><!-- CJK UNIFIED IDEOGRAPH-7EDD -->
+      <map code="0x7edf" name="uni7EDF"/><!-- CJK UNIFIED IDEOGRAPH-7EDF -->
+      <map code="0x7ee7" name="uni7EE7"/><!-- CJK UNIFIED IDEOGRAPH-7EE7 -->
+      <map code="0x7eed" name="uni7EED"/><!-- CJK UNIFIED IDEOGRAPH-7EED -->
+      <map code="0x7f16" name="uni7F16"/><!-- CJK UNIFIED IDEOGRAPH-7F16 -->
+      <map code="0x7f51" name="uni7F51"/><!-- CJK UNIFIED IDEOGRAPH-7F51 -->
+      <map code="0x7f6e" name="uni7F6E"/><!-- CJK UNIFIED IDEOGRAPH-7F6E -->
+      <map code="0x7f8e" name="uni7F8E"/><!-- CJK UNIFIED IDEOGRAPH-7F8E -->
+      <map code="0x7ffb" name="uni7FFB"/><!-- CJK UNIFIED IDEOGRAPH-7FFB -->
+      <map code="0x800c" name="uni800C"/><!-- CJK UNIFIED IDEOGRAPH-800C -->
+      <map code="0x804a" name="uni804A"/><!-- CJK UNIFIED IDEOGRAPH-804A -->
+      <map code="0x805a" name="uni805A"/><!-- CJK UNIFIED IDEOGRAPH-805A -->
+      <map code="0x80fd" name="uni80FD"/><!-- CJK UNIFIED IDEOGRAPH-80FD -->
+      <map code="0x81ea" name="uni81EA"/><!-- CJK UNIFIED IDEOGRAPH-81EA -->
+      <map code="0x81f3" name="uni81F3"/><!-- CJK UNIFIED IDEOGRAPH-81F3 -->
+      <map code="0x81f4" name="uni81F4"/><!-- CJK UNIFIED IDEOGRAPH-81F4 -->
+      <map code="0x8282" name="uni8282"/><!-- CJK UNIFIED IDEOGRAPH-8282 -->
+      <map code="0x82b1" name="uni82B1"/><!-- CJK UNIFIED IDEOGRAPH-82B1 -->
+      <map code="0x82e6" name="uni82E6"/><!-- CJK UNIFIED IDEOGRAPH-82E6 -->
+      <map code="0x8349" name="uni8349"/><!-- CJK UNIFIED IDEOGRAPH-8349 -->
+      <map code="0x83dc" name="uni83DC"/><!-- CJK UNIFIED IDEOGRAPH-83DC -->
+      <map code="0x85cf" name="uni85CF"/><!-- CJK UNIFIED IDEOGRAPH-85CF -->
+      <map code="0x884c" name="uni884C"/><!-- CJK UNIFIED IDEOGRAPH-884C -->
+      <map code="0x8865" name="uni8865"/><!-- CJK UNIFIED IDEOGRAPH-8865 -->
+      <map code="0x88c5" name="uni88C5"/><!-- CJK UNIFIED IDEOGRAPH-88C5 -->
+      <map code="0x897f" name="uni897F"/><!-- CJK UNIFIED IDEOGRAPH-897F -->
+      <map code="0x8981" name="uni8981"/><!-- CJK UNIFIED IDEOGRAPH-8981 -->
+      <map code="0x89c1" name="uni89C1"/><!-- CJK UNIFIED IDEOGRAPH-89C1 -->
+      <map code="0x89c8" name="uni89C8"/><!-- CJK UNIFIED IDEOGRAPH-89C8 -->
+      <map code="0x89e3" name="uni89E3"/><!-- CJK UNIFIED IDEOGRAPH-89E3 -->
+      <map code="0x8ba1" name="uni8BA1"/><!-- CJK UNIFIED IDEOGRAPH-8BA1 -->
+      <map code="0x8ba2" name="uni8BA2"/><!-- CJK UNIFIED IDEOGRAPH-8BA2 -->
+      <map code="0x8ba4" name="uni8BA4"/><!-- CJK UNIFIED IDEOGRAPH-8BA4 -->
+      <map code="0x8ba8" name="uni8BA8"/><!-- CJK UNIFIED IDEOGRAPH-8BA8 -->
+      <map code="0x8ba9" name="uni8BA9"/><!-- CJK UNIFIED IDEOGRAPH-8BA9 -->
+      <map code="0x8bae" name="uni8BAE"/><!-- CJK UNIFIED IDEOGRAPH-8BAE -->
+      <map code="0x8bb0" name="uni8BB0"/><!-- CJK UNIFIED IDEOGRAPH-8BB0 -->
+      <map code="0x8bba" name="uni8BBA"/><!-- CJK UNIFIED IDEOGRAPH-8BBA -->
+      <map code="0x8bbe" name="uni8BBE"/><!-- CJK UNIFIED IDEOGRAPH-8BBE -->
+      <map code="0x8bc1" name="uni8BC1"/><!-- CJK UNIFIED IDEOGRAPH-8BC1 -->
+      <map code="0x8bc6" name="uni8BC6"/><!-- CJK UNIFIED IDEOGRAPH-8BC6 -->
+      <map code="0x8bc9" name="uni8BC9"/><!-- CJK UNIFIED IDEOGRAPH-8BC9 -->
+      <map code="0x8bd5" name="uni8BD5"/><!-- CJK UNIFIED IDEOGRAPH-8BD5 -->
+      <map code="0x8bdd" name="uni8BDD"/><!-- CJK UNIFIED IDEOGRAPH-8BDD -->
+      <map code="0x8bf4" name="uni8BF4"/><!-- CJK UNIFIED IDEOGRAPH-8BF4 -->
+      <map code="0x8bf7" name="uni8BF7"/><!-- CJK UNIFIED IDEOGRAPH-8BF7 -->
+      <map code="0x8bfb" name="uni8BFB"/><!-- CJK UNIFIED IDEOGRAPH-8BFB -->
+      <map code="0x8bfe" name="uni8BFE"/><!-- CJK UNIFIED IDEOGRAPH-8BFE -->
+      <map code="0x8c03" name="uni8C03"/><!-- CJK UNIFIED IDEOGRAPH-8C03 -->
+      <map code="0x8c22" name="uni8C22"/><!-- CJK UNIFIED IDEOGRAPH-8C22 -->
+      <map code="0x8c46" name="uni8C46"/><!-- CJK UNIFIED IDEOGRAPH-8C46 -->
+      <map code="0x8c61" name="uni8C61"/><!-- CJK UNIFIED IDEOGRAPH-8C61 -->
+      <map code="0x8d25" name="uni8D25"/><!-- CJK UNIFIED IDEOGRAPH-8D25 -->
+      <map code="0x8d26" name="uni8D26"/><!-- CJK UNIFIED IDEOGRAPH-8D26 -->
+      <map code="0x8d28" name="uni8D28"/><!-- CJK UNIFIED IDEOGRAPH-8D28 -->
+      <map code="0x8d2d" name="uni8D2D"/><!-- CJK UNIFIED IDEOGRAPH-8D2D -->
+      <map code="0x8d34" name="uni8D34"/><!-- CJK UNIFIED IDEOGRAPH-8D34 -->
+      <map code="0x8d44" name="uni8D44"/><!-- CJK UNIFIED IDEOGRAPH-8D44 -->
+      <map code="0x8d56" name="uni8D56"/><!-- CJK UNIFIED IDEOGRAPH-8D56 -->
+      <map code="0x8d70" name="uni8D70"/><!-- CJK UNIFIED IDEOGRAPH-8D70 -->
+      <map code="0x8d74" name="uni8D74"/><!-- CJK UNIFIED IDEOGRAPH-8D74 -->
+      <map code="0x8d77" name="uni8D77"/><!-- CJK UNIFIED IDEOGRAPH-8D77 -->
+      <map code="0x8d85" name="uni8D85"/><!-- CJK UNIFIED IDEOGRAPH-8D85 -->
+      <map code="0x8ddf" name="uni8DDF"/><!-- CJK UNIFIED IDEOGRAPH-8DDF -->
+      <map code="0x8def" name="uni8DEF"/><!-- CJK UNIFIED IDEOGRAPH-8DEF -->
+      <map code="0x8df3" name="uni8DF3"/><!-- CJK UNIFIED IDEOGRAPH-8DF3 -->
+      <map code="0x8eab" name="uni8EAB"/><!-- CJK UNIFIED IDEOGRAPH-8EAB -->
+      <map code="0x8f6c" name="uni8F6C"/><!-- CJK UNIFIED IDEOGRAPH-8F6C -->
+      <map code="0x8f6f" name="uni8F6F"/><!-- CJK UNIFIED IDEOGRAPH-8F6F -->
+      <map code="0x8f7d" name="uni8F7D"/><!-- CJK UNIFIED IDEOGRAPH-8F7D -->
+      <map code="0x8f91" name="uni8F91"/><!-- CJK UNIFIED IDEOGRAPH-8F91 -->
+      <map code="0x8f93" name="uni8F93"/><!-- CJK UNIFIED IDEOGRAPH-8F93 -->
+      <map code="0x8f9b" name="uni8F9B"/><!-- CJK UNIFIED IDEOGRAPH-8F9B -->
+      <map code="0x8fbe" name="uni8FBE"/><!-- CJK UNIFIED IDEOGRAPH-8FBE -->
+      <map code="0x8fc7" name="uni8FC7"/><!-- CJK UNIFIED IDEOGRAPH-8FC7 -->
+      <map code="0x8fd0" name="uni8FD0"/><!-- CJK UNIFIED IDEOGRAPH-8FD0 -->
+      <map code="0x8fd1" name="uni8FD1"/><!-- CJK UNIFIED IDEOGRAPH-8FD1 -->
+      <map code="0x8fd4" name="uni8FD4"/><!-- CJK UNIFIED IDEOGRAPH-8FD4 -->
+      <map code="0x8fd8" name="uni8FD8"/><!-- CJK UNIFIED IDEOGRAPH-8FD8 -->
+      <map code="0x8fd9" name="uni8FD9"/><!-- CJK UNIFIED IDEOGRAPH-8FD9 -->
+      <map code="0x8fdb" name="uni8FDB"/><!-- CJK UNIFIED IDEOGRAPH-8FDB -->
+      <map code="0x8fdc" name="uni8FDC"/><!-- CJK UNIFIED IDEOGRAPH-8FDC -->
+      <map code="0x8fde" name="uni8FDE"/><!-- CJK UNIFIED IDEOGRAPH-8FDE -->
+      <map code="0x8ff0" name="uni8FF0"/><!-- CJK UNIFIED IDEOGRAPH-8FF0 -->
+      <map code="0x9001" name="uni9001"/><!-- CJK UNIFIED IDEOGRAPH-9001 -->
+      <map code="0x9009" name="uni9009"/><!-- CJK UNIFIED IDEOGRAPH-9009 -->
+      <map code="0x9014" name="uni9014"/><!-- CJK UNIFIED IDEOGRAPH-9014 -->
+      <map code="0x901a" name="uni901A"/><!-- CJK UNIFIED IDEOGRAPH-901A -->
+      <map code="0x9020" name="uni9020"/><!-- CJK UNIFIED IDEOGRAPH-9020 -->
+      <map code="0x9053" name="uni9053"/><!-- CJK UNIFIED IDEOGRAPH-9053 -->
+      <map code="0x905b" name="uni905B"/><!-- CJK UNIFIED IDEOGRAPH-905B -->
+      <map code="0x9080" name="uni9080"/><!-- CJK UNIFIED IDEOGRAPH-9080 -->
+      <map code="0x90a3" name="uni90A3"/><!-- CJK UNIFIED IDEOGRAPH-90A3 -->
+      <map code="0x90e8" name="uni90E8"/><!-- CJK UNIFIED IDEOGRAPH-90E8 -->
+      <map code="0x90fd" name="uni90FD"/><!-- CJK UNIFIED IDEOGRAPH-90FD -->
+      <map code="0x9192" name="uni9192"/><!-- CJK UNIFIED IDEOGRAPH-9192 -->
+      <map code="0x91c7" name="uni91C7"/><!-- CJK UNIFIED IDEOGRAPH-91C7 -->
+      <map code="0x91cc" name="uni91CC"/><!-- CJK UNIFIED IDEOGRAPH-91CC -->
+      <map code="0x91cd" name="uni91CD"/><!-- CJK UNIFIED IDEOGRAPH-91CD -->
+      <map code="0x91cf" name="uni91CF"/><!-- CJK UNIFIED IDEOGRAPH-91CF -->
+      <map code="0x949f" name="uni949F"/><!-- CJK UNIFIED IDEOGRAPH-949F -->
+      <map code="0x94b1" name="uni94B1"/><!-- CJK UNIFIED IDEOGRAPH-94B1 -->
+      <map code="0x94fe" name="uni94FE"/><!-- CJK UNIFIED IDEOGRAPH-94FE -->
+      <map code="0x9500" name="uni9500"/><!-- CJK UNIFIED IDEOGRAPH-9500 -->
+      <map code="0x9505" name="uni9505"/><!-- CJK UNIFIED IDEOGRAPH-9505 -->
+      <map code="0x957f" name="uni957F"/><!-- CJK UNIFIED IDEOGRAPH-957F -->
+      <map code="0x95ea" name="uni95EA"/><!-- CJK UNIFIED IDEOGRAPH-95EA -->
+      <map code="0x95ed" name="uni95ED"/><!-- CJK UNIFIED IDEOGRAPH-95ED -->
+      <map code="0x95f0" name="uni95F0"/><!-- CJK UNIFIED IDEOGRAPH-95F0 -->
+      <map code="0x95f4" name="uni95F4"/><!-- CJK UNIFIED IDEOGRAPH-95F4 -->
+      <map code="0x9605" name="uni9605"/><!-- CJK UNIFIED IDEOGRAPH-9605 -->
+      <map code="0x9633" name="uni9633"/><!-- CJK UNIFIED IDEOGRAPH-9633 -->
+      <map code="0x9645" name="uni9645"/><!-- CJK UNIFIED IDEOGRAPH-9645 -->
+      <map code="0x9650" name="uni9650"/><!-- CJK UNIFIED IDEOGRAPH-9650 -->
+      <map code="0x9664" name="uni9664"/><!-- CJK UNIFIED IDEOGRAPH-9664 -->
+      <map code="0x966a" name="uni966A"/><!-- CJK UNIFIED IDEOGRAPH-966A -->
+      <map code="0x968f" name="uni968F"/><!-- CJK UNIFIED IDEOGRAPH-968F -->
+      <map code="0x96c6" name="uni96C6"/><!-- CJK UNIFIED IDEOGRAPH-96C6 -->
+      <map code="0x96ea" name="uni96EA"/><!-- CJK UNIFIED IDEOGRAPH-96EA -->
+      <map code="0x96f6" name="uni96F6"/><!-- CJK UNIFIED IDEOGRAPH-96F6 -->
+      <map code="0x9700" name="uni9700"/><!-- CJK UNIFIED IDEOGRAPH-9700 -->
+      <map code="0x975e" name="uni975E"/><!-- CJK UNIFIED IDEOGRAPH-975E -->
+      <map code="0x9760" name="uni9760"/><!-- CJK UNIFIED IDEOGRAPH-9760 -->
+      <map code="0x9762" name="uni9762"/><!-- CJK UNIFIED IDEOGRAPH-9762 -->
+      <map code="0x9875" name="uni9875"/><!-- CJK UNIFIED IDEOGRAPH-9875 -->
+      <map code="0x9879" name="uni9879"/><!-- CJK UNIFIED IDEOGRAPH-9879 -->
+      <map code="0x987a" name="uni987A"/><!-- CJK UNIFIED IDEOGRAPH-987A -->
+      <map code="0x987e" name="uni987E"/><!-- CJK UNIFIED IDEOGRAPH-987E -->
+      <map code="0x987f" name="uni987F"/><!-- CJK UNIFIED IDEOGRAPH-987F -->
+      <map code="0x9884" name="uni9884"/><!-- CJK UNIFIED IDEOGRAPH-9884 -->
+      <map code="0x9898" name="uni9898"/><!-- CJK UNIFIED IDEOGRAPH-9898 -->
+      <map code="0x989d" name="uni989D"/><!-- CJK UNIFIED IDEOGRAPH-989D -->
+      <map code="0x98ce" name="uni98CE"/><!-- CJK UNIFIED IDEOGRAPH-98CE -->
+      <map code="0x98df" name="uni98DF"/><!-- CJK UNIFIED IDEOGRAPH-98DF -->
+      <map code="0x9910" name="uni9910"/><!-- CJK UNIFIED IDEOGRAPH-9910 -->
+      <map code="0x996d" name="uni996D"/><!-- CJK UNIFIED IDEOGRAPH-996D -->
+      <map code="0x9a8c" name="uni9A8C"/><!-- CJK UNIFIED IDEOGRAPH-9A8C -->
+      <map code="0x9ed8" name="uni9ED8"/><!-- CJK UNIFIED IDEOGRAPH-9ED8 -->
+      <map code="0xff01" name="uniFF01"/><!-- FULLWIDTH EXCLAMATION MARK -->
+      <map code="0xff08" name="uniFF08"/><!-- FULLWIDTH LEFT PARENTHESIS -->
+      <map code="0xff09" name="uniFF09"/><!-- FULLWIDTH RIGHT PARENTHESIS -->
+      <map code="0xff0c" name="uniFF0C"/><!-- FULLWIDTH COMMA -->
+      <map code="0xff1a" name="uniFF1A"/><!-- FULLWIDTH COLON -->
+      <map code="0xff1b" name="uniFF1B"/><!-- FULLWIDTH SEMICOLON -->
+      <map code="0xff1f" name="uniFF1F"/><!-- FULLWIDTH QUESTION MARK -->
+      <map code="0xff3b" name="uniFF3B"/><!-- FULLWIDTH LEFT SQUARE BRACKET -->
+      <map code="0xff3d" name="uniFF3D"/><!-- FULLWIDTH RIGHT SQUARE BRACKET -->
+      <map code="0xff5b" name="uniFF5B"/><!-- FULLWIDTH LEFT CURLY BRACKET -->
+      <map code="0xff5d" name="uniFF5D"/><!-- FULLWIDTH RIGHT CURLY BRACKET -->
+      <map code="0xff5e" name="uniFF5E"/><!-- FULLWIDTH TILDE -->
+      <map code="0xffe5" name="uniFFE5"/><!-- FULLWIDTH YEN SIGN -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

@@ -1,0 +1,16 @@
+{
+  "name": "Couple OA Todo",
+  "chinese_name": "两人待办手写体",
+  "stem": "CoupleOATodo-Regular",
+  "release": "0.1.0",
+  "font_version": "0.100",
+  "date": "2026-10-16",
+  "repository": "https://github.com/georgehuang000/couple-oa-todo-font",
+  "license": "OFL-1.1",
+  "reserved_font_names": [],
+  "han": 604,
+  "other": 139,
+  "mapped_codepoints": 743,
+  "master": "sources/ttx/CoupleOATodo-Regular.ttx",
+  "fonttools_version": "4.63.0"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "date": "2026-10-16",
+  "mapped_codepoints": 743,
+  "all_published_outlines_and_metrics_unchanged": true,
+  "original_731_preserved": true,
+  "additional_native_punctuation": "「」『』〈〉〔〕［］｛｝",
+  "excluded_mxfont_expansion_han": 7501,
+  "baseline_complete_font_sha256": "36cec67f8fc835b75182bcd86ef04a0199af19411f5deae564203d8c55a743d9",
+  "baseline_design_font_sha256": "14e0aa1a65d6310d74ca55a2deb9e6ba02c558b8ab4e92912081ac544229fe94",
+  "check": "Exact glyph coordinates, contour endpoints, flags and advance/side-bearing equality, for every published Unicode mapping."
+}

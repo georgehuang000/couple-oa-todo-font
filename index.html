@@ -1,0 +1,54 @@
+<!doctype html>
+<!-- SPDX-License-Identifier: MIT; loaded font data is OFL-1.1. -->
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="两人待办手写体，604 字设计母版，OFL 1.1 开源字体。在线输入试字、查询收录字符、下载 TTF 与 WOFF。">
+<title>两人待办手写体 · Couple OA Todo</title>
+<link rel="stylesheet" href="assets/style.css">
+<body>
+  <header class="nav wrap">
+    <a class="brand" href="#"><span aria-hidden="true">♡</span> 两人待办手写体</a>
+    <a href="https://github.com/georgehuang000/couple-oa-todo-font">GitHub ↗</a>
+  </header>
+  <main class="wrap">
+    <section class="hero">
+      <div class="eyebrow">COUPLE OA TODO / v0.1.0</div>
+      <h1 class="font">待办事项<br>今天，也要好好生活。</h1>
+      <p class="intro">把日常写进手账，让每个小计划，都带一点喜欢。</p>
+      <div class="actions">
+        <a class="button primary" href="fonts/CoupleOATodo-Regular.ttf" download>下载字体 TTF <span>↓</span></a>
+        <a class="button" href="https://github.com/georgehuang000/couple-oa-todo-font/releases/latest">完整安装包 ↗</a>
+      </div>
+      <div class="facts"><span>604 个汉字</span><span>743 个字符</span><span>OFL 1.1</span><span>可商用 · 可修改</span></div>
+    </section>
+    <section class="paper" aria-labelledby="try-title">
+      <div class="section-head"><h2 id="try-title">写一句，试试看</h2><span id="font-status" role="status">正在载入字体</span></div>
+      <div class="controls">
+        <label for="size">字号 <output id="size-value">40</output> px</label>
+        <input id="size" type="range" min="20" max="80" value="40">
+        <button type="button" id="reset">恢复示例</button>
+      </div>
+      <label class="sr-only" for="text">输入试字内容</label>
+      <textarea id="text" class="font" rows="4" spellcheck="false">今天我们一起去旅行。
+记得吃饭，也记得想我。
+Hello, 2026! ♡</textarea>
+      <p id="coverage" class="coverage" role="status"></p>
+      <p class="note">这是 604 字设计母版。缺字由系统字体显示；输入内容只在你的浏览器中处理。</p>
+    </section>
+    <section class="library" aria-labelledby="library-title">
+      <div class="section-head"><h2 id="library-title">字库里有什么</h2><span id="count"></span></div>
+      <div class="search-row"><label for="query">查字</label><input id="query" placeholder="输入文字或码位，如 待 / U+5F85" autocomplete="off"><select id="category" aria-label="字符类别"><option value="all">全部字符</option><option value="han">汉字</option><option value="other">英文、数字和符号</option></select></div>
+      <div class="grid" id="glyphs"></div>
+      <div class="pager"><button id="prev" type="button">上一页</button><span id="page"></span><button id="next" type="button">下一页</button></div>
+    </section>
+    <section class="about">
+      <div><h2>用在喜欢的地方</h2><p>适合 24–48 px 的标题、手账和短句。保留自然字宽，数字等宽；长段正文和重要输入建议使用清晰的系统字体。</p></div>
+      <div><h2>开放，也有来源</h2><p>字体与字形源码采用 OFL 1.1，允许商业设计、修改和再分发。保留许可，衍生字体沿用 OFL，不单独出售字体。<a href="OFL.txt">阅读完整许可 ↗</a></p></div>
+    </section>
+  </main>
+  <footer class="wrap">从「待办事项」出发。<a href="https://github.com/georgehuang000/couple-oa-todo-font/blob/main/docs/PROVENANCE.md">来源记录</a><a href="https://github.com/georgehuang000/couple-oa-todo-font/issues/new/choose">反馈字形问题</a><a href="fonts/CoupleOATodo-Regular.woff" download>下载 WOFF</a></footer>
+  <script src="assets/characters.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

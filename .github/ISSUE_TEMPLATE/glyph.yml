@@ -1,0 +1,24 @@
+name: 字形或缺字反馈
+description: 报告错字、缺字、笔画或排版问题
+title: '[字形] '
+body:
+  - type: textarea
+    id: characters
+    attributes:
+      label: 字符和最短复现文本
+      description: 可补充 Unicode；请勿填写私人内容。
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 字号、软件和字体版本
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望的字形或用途
+      description: 可附截图；缺字需求请说明实际使用场景。
+    validations:
+      required: true

@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "release": "0.1.0",
+  "han": 604,
+  "mapped_codepoints": 743,
+  "blank_spaces": 3,
+  "printable_ascii_complete": true,
+  "equal_width_digits": true,
+  "ttf_woff_outlines_metrics_names_equal": true,
+  "offline_ttf_rebuild_byte_identical": true,
+  "offline_woff_rebuild_tables_equal": true,
+  "offline_woff_rebuild_byte_identical_on_this_runtime": true,
+  "font_license_embedded": true,
+  "files": [
+    {
+      "file": "fonts/CoupleOATodo-Regular.ttf",
+      "sha256": "23abdf09e9dc78194e1f8813fc980c3760479d849bf6b396667abf497f0e1dd6",
+      "bytes": 469200
+    },
+    {
+      "file": "fonts/CoupleOATodo-Regular.woff",
+      "sha256": "b7785f55b261ba39ca5d72821bdbf1da691b15486171c735bab8da8d0b69c349",
+      "bytes": 281504
+    }
+  ]
+}

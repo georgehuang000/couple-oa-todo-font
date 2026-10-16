@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.63">
+  <glyf>
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+    <TTGlyph name="uni0027" xMin="78" yMin="528" xMax="155" yMax="677">
+      <contour>
+        <pt x="102" y="656" on="1" overlap="1"/>
+        <pt x="104" y="663" on="1"/>
+        <pt x="108" y="669" on="1"/>
+        <pt x="114" y="673" on="1"/>
+        <pt x="120" y="676" on="1"/>
+        <pt x="127" y="677" on="1"/>
+        <pt x="134" y="676" on="1"/>
+        <pt x="141" y="674" on="1"/>
+        <pt x="147" y="670" on="1"/>
+        <pt x="151" y="664" on="1"/>
+        <pt x="154" y="658" on="1"/>
+        <pt x="155" y="651" on="1"/>
+        <pt x="154" y="644" on="1"/>
+        <pt x="131" y="549" on="1"/>
+        <pt x="129" y="542" on="1"/>
+        <pt x="125" y="536" on="1"/>
+        <pt x="119" y="532" on="1"/>
+        <pt x="113" y="529" on="1"/>
+        <pt x="106" y="528" on="1"/>
+        <pt x="99" y="529" on="1"/>
+        <pt x="92" y="531" on="1"/>
+        <pt x="86" y="535" on="1"/>
+        <pt x="82" y="541" on="1"/>
+        <pt x="79" y="547" on="1"/>
+        <pt x="78" y="554" on="1"/>
+        <pt x="79" y="561" on="1"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+  </glyf>
+</ttFont>
