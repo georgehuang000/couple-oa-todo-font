@@ -1,0 +1,29 @@
+{
+  "model_commit": "93f3c88517f7c904f16da6333adb2588dcdf3cce",
+  "checkpoint_sha256": "dcbcb6438d9b1e3230551bc78fcf64ec5454a01734502bdeac410d2f5c404119",
+  "references": "便签寄语纸生活每一个选择认真记住欢我们起你爱今天日子旅行顾数图前留流新慢切风卡礼出共当级花助岛饭张码转物建限钟独将差素牌装登零聚",
+  "seed": 20261007,
+  "base_sha256": "70a53758c3dc6373516e7a7ecb2bbcfbec8093f1c672667be11c45b33d611328",
+  "charset_sha256": "5bdce098907c1e3b30b96b9e562c312356362f13b0ef9db5cd5b5c02f9688c0a",
+  "content_fonts": [
+    {
+      "file": "SourceHanSerifSC-Regular.otf",
+      "sha256": "78aa7a328fd974df2d688c8a9fd74a33d8334dfa84ab24d9d11efb2ffc464117",
+      "family": "Source Han Serif SC",
+      "version": "Version 2.003;hotconv 1.1.1;makeotfexe 2.6.0",
+      "license": "OFL-1.1",
+      "copyright": "© 2017-2024 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+      "upstream": "https://github.com/adobe-fonts/source-han-serif",
+      "commit": "7889f11bf31170b5d092a083b357c8c8130f89e0"
+    }
+  ],
+  "input_policy": "256px grayscale; unchanged Note V1 style; content 220px Source Han Serif SC Regular; native128px bilinear",
+  "generated_han": 7499,
+  "preserved_original_characters": 735,
+  "manual_override": [
+    "士"
+  ],
+  "date": "2026-10-16",
+  "model_repository": "https://github.com/clovaai/mxfont",
+  "inference_code_redistributed": false
+}

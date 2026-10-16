@@ -17,6 +17,10 @@ def main():
     tracked = [Path(p) for p in result.stdout.decode('utf-8').split('\0') if p]
     if not tracked or any(p.is_absolute() or '..' in p.parts for p in tracked):
         raise ValueError('Expected a reviewed, tracked repository.')
+    # This is the Todo package. Note has its own package tool and license.
+    excluded = {'README.todo.md', 'families.json', 'docs/COLLECTION.md'}
+    tracked = [p for p in tracked if p.parts[0] not in {'note', '.github'}
+               and p.as_posix() not in excluded]
     dest = ROOT / 'dist'
     dest.mkdir(exist_ok=True)
     small_roots = {'fonts', 'assets', 'docs', 'licenses', 'data'}
@@ -33,7 +37,8 @@ def main():
                 item = zipfile.ZipInfo(f'CoupleOATodo-v{project["release"]}/{rel.as_posix()}', (2026, 10, 16, 0, 0, 0))
                 item.compress_type = zipfile.ZIP_DEFLATED
                 item.external_attr = 0o100644 << 16
-                archive.writestr(item, path.read_bytes(), compresslevel=9)
+                content_path = ROOT / 'README.todo.md' if rel.as_posix() == 'README.md' else path
+                archive.writestr(item, content_path.read_bytes(), compresslevel=9)
         with zipfile.ZipFile(target) as archive:
             if archive.testzip() is not None or len(archive.namelist()) != len(entries):
                 raise ValueError('ZIP integrity check failed.')

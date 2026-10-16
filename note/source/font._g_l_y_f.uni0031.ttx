@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="4.63">
+  <glyf>
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+    <TTGlyph name="uni0031" xMin="260" yMin="-1" xMax="441" yMax="621">
+      <contour>
+        <pt x="409" y="610" on="1"/>
+        <pt x="419" y="619" on="0"/>
+        <pt x="428" y="621" on="0"/>
+        <pt x="434" y="614" on="1"/>
+        <pt x="439" y="610" on="0"/>
+        <pt x="441" y="598" on="0"/>
+        <pt x="435" y="566" on="0"/>
+        <pt x="427" y="531" on="1"/>
+        <pt x="416" y="484" on="0"/>
+        <pt x="394" y="374" on="0"/>
+        <pt x="374" y="260" on="0"/>
+        <pt x="356" y="153" on="0"/>
+        <pt x="350" y="109" on="1"/>
+        <pt x="344" y="64" on="0"/>
+        <pt x="338" y="22" on="0"/>
+        <pt x="334" y="8" on="0"/>
+        <pt x="332" y="5" on="1"/>
+        <pt x="326" y="-1" on="0"/>
+        <pt x="315" y="1" on="0"/>
+        <pt x="311" y="9" on="1"/>
+        <pt x="309" y="15" on="0"/>
+        <pt x="310" y="42" on="0"/>
+        <pt x="313" y="71" on="1"/>
+        <pt x="317" y="100" on="0"/>
+        <pt x="331" y="191" on="0"/>
+        <pt x="349" y="296" on="0"/>
+        <pt x="369" y="402" on="0"/>
+        <pt x="377" y="446" on="1"/>
+        <pt x="383" y="475" on="0"/>
+        <pt x="392" y="523" on="0"/>
+        <pt x="397" y="552" on="0"/>
+        <pt x="396" y="552" on="1"/>
+        <pt x="395" y="552" on="0"/>
+        <pt x="361" y="516" on="0"/>
+        <pt x="338" y="491" on="1"/>
+        <pt x="315" y="466" on="0"/>
+        <pt x="289" y="440" on="0"/>
+        <pt x="276" y="431" on="0"/>
+        <pt x="271" y="432" on="1"/>
+        <pt x="260" y="433" on="0"/>
+        <pt x="260" y="447" on="0"/>
+        <pt x="292" y="486" on="0"/>
+        <pt x="328" y="524" on="1"/>
+        <pt x="347" y="545" on="0"/>
+        <pt x="382" y="581" on="0"/>
+        <pt x="406" y="606" on="0"/>
+      </contour>
+      <instructions/>
+    </TTGlyph>
+  </glyf>
+</ttFont>

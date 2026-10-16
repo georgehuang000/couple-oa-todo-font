@@ -1,0 +1,19 @@
+{
+  "version": "2.100",
+  "date": "2026-10-16",
+  "family": "Couple OA Note 8105",
+  "han_count": 8105,
+  "mapped_characters": 8234,
+  "non_bmp": 196,
+  "preserved_original_characters": 735,
+  "license": "OFL-1.1",
+  "sha256": {
+    "CoupleOANote8105-Regular.ttf": "06fd345a289abaf6fa525f7928c3976a58d0aabbbd34a6a3a985ebd3d90f5b76",
+    "CoupleOANote8105-Regular.woff": "82388af48dba52eaaf50a051e2d01a7655e5ec5465e53285e9109c7371ef5af4"
+  },
+  "bytes": {
+    "CoupleOANote8105-Regular.ttf": 6209640,
+    "CoupleOANote8105-Regular.woff": 4063244
+  },
+  "pre_metadata_font_sha256": "e8f35d87de967d57d67f6e90de78e7dad3bf31a6a92934e0849640ae73fdceec"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "source": "source/font.ttx",
+  "formats_byte_identical_in_local_environment": [
+    "ttf",
+    "woff"
+  ],
+  "fonttools": "4.63.0",
+  "python": "3.10",
+  "sha256": {
+    "CoupleOANote8105-Regular.ttf": "06fd345a289abaf6fa525f7928c3976a58d0aabbbd34a6a3a985ebd3d90f5b76",
+    "CoupleOANote8105-Regular.woff": "82388af48dba52eaaf50a051e2d01a7655e5ec5465e53285e9109c7371ef5af4"
+  },
+  "all_8234_glyph_outlines_and_metrics_preserved_during_license_metadata_export": true,
+  "rendered_source_built_han": 16210,
+  "sizes": [
+    24,
+    48
+  ],
+  "metadata_update_equivalence": "collection-integration.json"
+}

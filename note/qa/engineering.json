@@ -1,0 +1,39 @@
+{
+  "status": "passed",
+  "font_sha256": "06fd345a289abaf6fa525f7928c3976a58d0aabbbd34a6a3a985ebd3d90f5b76",
+  "mapped_codepoints": 8234,
+  "han_covered": 8105,
+  "non_bmp_covered": 196,
+  "original_735_outlines_and_metrics_unchanged": true,
+  "formats_equal": true,
+  "empty_han": 0,
+  "duplicate_han": [],
+  "outside_line_box": [],
+  "bounds_policy": "Actual Bezier ink extrema; off-curve control hulls are recorded separately.",
+  "control_hull_outliers_with_ink_inside": [
+    {
+      "character": "懿",
+      "control_box": [
+        -6,
+        -69,
+        863,
+        728
+      ],
+      "actual_ink_box": [
+        54.77777777777778,
+        -67.5,
+        860.8181818181819,
+        727.5263157894736
+      ]
+    }
+  ],
+  "freetype_rasters": 16210,
+  "raster_sizes": [
+    24,
+    48
+  ],
+  "input_hashes_verified": 8121,
+  "visual_review": "separate",
+  "pre_metadata_font_sha256": "e8f35d87de967d57d67f6e90de78e7dad3bf31a6a92934e0849640ae73fdceec",
+  "metadata_only_export_all_8234_outlines_and_metrics_unchanged": true
+}

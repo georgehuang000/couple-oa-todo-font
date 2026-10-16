@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "change": "Repository URL and OFL project URL metadata only",
+  "previous_staging_ttf_sha256": "499cfef6250cd0d83e717f6a73ed82228f5acb2e52ef36ae1a3f259d8cd18f6b",
+  "font_sha256": "06fd345a289abaf6fa525f7928c3976a58d0aabbbd34a6a3a985ebd3d90f5b76",
+  "all_8234_outlines_and_metrics_unchanged": true,
+  "tables_unchanged": [
+    "hhea",
+    "maxp",
+    "OS/2",
+    "hmtx",
+    "cmap",
+    "loca",
+    "glyf",
+    "post",
+    "gasp",
+    "ltag"
+  ],
+  "font_header_metrics_and_timestamps_unchanged": true,
+  "repository": "https://github.com/georgehuang000/couple-oa-todo-font",
+  "family_directory": "note"
+}

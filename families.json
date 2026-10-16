@@ -1,0 +1,24 @@
+{
+  "name": "Couple OA Fonts",
+  "repository": "https://github.com/georgehuang000/couple-oa-todo-font",
+  "families": [
+    {
+      "id": "todo",
+      "family": "Couple OA Todo",
+      "path": ".",
+      "han": 604,
+      "mapped_characters": 743,
+      "tag": "v0.1.0",
+      "license": "OFL.txt"
+    },
+    {
+      "id": "note",
+      "family": "Couple OA Note 8105",
+      "path": "note",
+      "han": 8105,
+      "mapped_characters": 8234,
+      "tag": "note-v2.100",
+      "license": "note/OFL.txt"
+    }
+  ]
+}

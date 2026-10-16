@@ -1,0 +1,16 @@
+/* Couple OA Note 8105. Font: SIL OFL 1.1; retain OFL.txt with redistribution. */
+@font-face {
+  font-family: "Couple OA Note 8105";
+  src: url("fonts/CoupleOANote8105-Regular.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+.couple-note {
+  font-family: "Couple OA Note 8105", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-synthesis: none;
+  line-height: 1.65;
+}

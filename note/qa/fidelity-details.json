@@ -1,0 +1,68 @@
+{
+  "status": "visually_reviewed_no_missing_components_identified",
+  "font_sha256": "06fd345a289abaf6fa525f7928c3976a58d0aabbbd34a6a3a985ebd3d90f5b76",
+  "native_source_pixel_tolerance": 1,
+  "rows": [
+    {
+      "character": "山",
+      "iou500": 0.8577809455927774,
+      "iou1000": 0.8757473013286688,
+      "source_components_without_any_overlap": [],
+      "source_ink_beyond_one_native_pixel": 0.00021614199257488685,
+      "max_source_pixel_distance": 1.1315811644402591
+    },
+    {
+      "character": "艺",
+      "iou500": 0.8698680351906158,
+      "iou1000": 0.8683275108725543,
+      "source_components_without_any_overlap": [],
+      "source_ink_beyond_one_native_pixel": 0.0007276518565982818,
+      "max_source_pixel_distance": 1.331527947391137
+    },
+    {
+      "character": "闺",
+      "iou500": 0.867307152437693,
+      "iou1000": 0.8735240032865136,
+      "source_components_without_any_overlap": [],
+      "source_ink_beyond_one_native_pixel": 0.0020920158829127425,
+      "max_source_pixel_distance": 1.331527947391137
+    },
+    {
+      "character": "闩",
+      "iou500": 0.8583162217659137,
+      "iou1000": 0.8607041277277182,
+      "source_components_without_any_overlap": [],
+      "source_ink_beyond_one_native_pixel": 0.0010946287698637377,
+      "max_source_pixel_distance": 1.4424886096737317
+    },
+    {
+      "character": "阂",
+      "iou500": 0.8695294551436594,
+      "iou1000": 0.8815250438928302,
+      "source_components_without_any_overlap": [],
+      "source_ink_beyond_one_native_pixel": 0.0003075099940748074,
+      "max_source_pixel_distance": 1.142409939060562
+    },
+    {
+      "character": "馗",
+      "iou500": 0.8666973933527936,
+      "iou1000": 0.8805475253835704,
+      "source_components_without_any_overlap": [],
+      "source_ink_beyond_one_native_pixel": 0.0009416195856873823,
+      "max_source_pixel_distance": 1.331527947391137
+    },
+    {
+      "character": "襕",
+      "iou500": 0.8688476332522176,
+      "iou1000": 0.8821089314265631,
+      "source_components_without_any_overlap": [],
+      "source_ink_beyond_one_native_pixel": 0.00064494140471384,
+      "max_source_pixel_distance": 1.3725075926388832
+    }
+  ],
+  "board": "assets/fidelity.png",
+  "board_sha256": "dc1324bfd3e8f343c256c6fed44b57f1bfbf81b75c6b4d407ce697b53189795d",
+  "pre_metadata_font_sha256": "e8f35d87de967d57d67f6e90de78e7dad3bf31a6a92934e0849640ae73fdceec",
+  "observations_from_font_sha256": "499cfef6250cd0d83e717f6a73ed82228f5acb2e52ef36ae1a3f259d8cd18f6b",
+  "metadata_update_equivalence": "collection-integration.json"
+}

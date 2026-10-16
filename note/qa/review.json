@@ -1,0 +1,69 @@
+{
+  "version": "2.100",
+  "date": "2026-10-16",
+  "font_sha256": "06fd345a289abaf6fa525f7928c3976a58d0aabbbd34a6a3a985ebd3d90f5b76",
+  "status": "engineering_passed_visual_sampling_completed",
+  "reviewer": "Codex visual inspection of actual rendered images in this session",
+  "pilot": {
+    "pages_observed": 3,
+    "characters_observed": 60,
+    "finding": "Original style and new OFL-content candidates remain visually consistent."
+  },
+  "model_comparison": {
+    "compared": 7499,
+    "largest_normalized_differences_observed": 160,
+    "pages_observed": 8,
+    "raw_iou_median": 0.5325719120135364,
+    "purpose": "Triage only; no numerical similarity score certifies character correctness.",
+    "finding": "Variation mainly in placement, width and joins; no new blocking structural regression identified in the observed sample."
+  },
+  "ttf_atlas": {
+    "pages_generated": 82,
+    "pages_observed": [
+      1,
+      5,
+      23,
+      40,
+      55,
+      66,
+      77,
+      82
+    ],
+    "characters_on_observed_pages": 705,
+    "all_82_pages_observed": false
+  },
+  "supplementary_unicode": {
+    "characters_observed": 196,
+    "pages_observed": 2
+  },
+  "conversion_fidelity": {
+    "count": 7498,
+    "threshold": 0.87,
+    "minimum": 0.8577809455927774,
+    "median": 0.9039191698350053,
+    "flagged_count": 7,
+    "accepted_after_enlarged_inspection": [
+      "山",
+      "艺",
+      "闺",
+      "闩",
+      "阂",
+      "馗",
+      "襕"
+    ],
+    "finding": "All source components retained in the overlap diagnostic; enlarged source/final inspection found no missing dots or components. Threshold was not lowered."
+  },
+  "specimens": [
+    "assets/specimen.png",
+    "assets/sizes.png",
+    "assets/fidelity.png"
+  ],
+  "limitations": [
+    "Visual checking is sampled, not an exhaustive stroke-by-stroke certification of all 8105 newly assembled Han glyphs.",
+    "No new OCR certification is claimed.",
+    "Browser layout and cross-device font loading were not exercised; preview JavaScript was checked with Node DOM doubles.",
+    "Thin strokes remain light at small sizes; test the font at the intended size and in the target application."
+  ],
+  "observations_from_font_sha256": "499cfef6250cd0d83e717f6a73ed82228f5acb2e52ef36ae1a3f259d8cd18f6b",
+  "metadata_update_equivalence": "collection-integration.json"
+}

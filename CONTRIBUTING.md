@@ -9,3 +9,6 @@
 修改字体后，在独立目录构建，对比样张，并运行 `python scripts/verify.py`。正式更新需同步字体、SVG、`data/characters.json` 中的摘要、`project.json`、字体内部版本和 FONTLOG。不要把单纯的哈希变化当作视觉验收。
 
 提交者应有权按对应目录许可提供贡献：字形与字体源码使用 OFL-1.1，构建和页面代码使用 MIT。保留必要的第三方版权、来源和修改说明。
+
+
+便签手记的修改方式请看[对应贡献说明](https://github.com/georgehuang000/couple-oa-todo-font/blob/main/note/CONTRIBUTING.md)。以上流程适用于待办手写体。

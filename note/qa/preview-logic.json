@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "font_sha256": "06fd345a289abaf6fa525f7928c3976a58d0aabbbd34a6a3a985ebd3d90f5b76",
+  "html_sha256": "3c7ad9a49d03a9104597ec75566cef819dffbc3dd73926d9dd4ad33cc509f440",
+  "embedded_woff_sha256": "82388af48dba52eaaf50a051e2d01a7655e5ec5465e53285e9109c7371ef5af4",
+  "checks": [
+    "editable known text",
+    "supplementary Han counted once",
+    "unsupported Han/emoji explicitly flagged",
+    "literal HTML remains text",
+    "empty input",
+    "non-BMP search and insertion",
+    "zero results",
+    "level/source filters",
+    "first and last catalog pages",
+    "sample restore",
+    "size change",
+    "embedded WOFF byte identity"
+  ],
+  "scope": "Node VM with DOM doubles; browser rendering and layout not verified"
+}

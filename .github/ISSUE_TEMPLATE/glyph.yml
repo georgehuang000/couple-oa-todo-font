@@ -2,6 +2,15 @@ name: 字形或缺字反馈
 description: 报告错字、缺字、笔画或排版问题
 title: '[字形] '
 body:
+  - type: dropdown
+    id: family
+    attributes:
+      label: 字体名称
+      options:
+        - 两人待办手写体 / Couple OA Todo
+        - 便签手记 / Couple OA Note 8105
+    validations:
+      required: true
   - type: textarea
     id: characters
     attributes:
